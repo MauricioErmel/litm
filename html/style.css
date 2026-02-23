@@ -1,0 +1,575 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=IM+Fell+English:ital@0;1&family=UnifrakturCook:wght@700&family=UnifrakturMaguntia&display=swap');
+
+:root {
+    --bg-parchment: #f4e4bc;
+    --text-ink: #2b2b2b;
+    --accent-red: #8b0000;
+    --accent-gold: #daa520;
+    --tag-power: khaki;
+    --tag-weakness: #f9be51;
+    --tag-status: lightgreen;
+    --tag-limit: indianred;
+    --might-greatness: #5c5c90;
+    --might-origin: #4b8457;
+    --might-generic: #6a5b37;
+}
+
+body {
+    background-color: var(--bg-parchment);
+    color: var(--text-ink);
+    font-family: 'IM Fell English', serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url('img/beige-paper.png');
+    /* Subtle texture overlay if available, otherwise color works */
+}
+
+.book-container {
+    max-width: 700px;
+    /* Spread width */
+    margin: 40px auto;
+    padding: 60px;
+    background: #fffef0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    border: 1px solid #dcdcdc;
+    position: relative;
+    /* Simulate book gutter if we want */
+}
+
+/* Typography */
+h1 {
+    font-family: 'UnifrakturCook', cursive;
+    font-size: 4rem;
+    text-align: center;
+    color: var(--text-ink);
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
+h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: var(--text-ink);
+    margin-top: 0;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid var(--text-ink);
+    padding-bottom: 1rem;
+}
+
+h3 {
+    font-size: 2rem;
+    color: var(--accent-red);
+    border-bottom: 1px solid var(--accent-gold);
+    padding-bottom: 0.2rem;
+    margin-top: 2rem;
+    break-after: avoid;
+}
+
+h4 {
+    font-size: 1.5rem;
+    color: var(--accent-red);
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h5 {
+    font-size: 0.9rem;
+    color: var(--text-ink);
+    font-weight: bold;
+    margin-top: 1rem;
+    letter-spacing: 2px;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+
+.tag-power {
+    background-color: var(--tag-power);
+    font-style: italic;
+}
+
+.tag-weakness {
+    background-color: var(--tag-weakness);
+    font-style: italic;
+}
+
+.tag-status {
+    background-color: var(--tag-status);
+    font-style: italic;
+}
+
+.tag-limit {
+    background-color: var(--tag-limit);
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    /* Custom bullets inside */
+    padding-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+
+li::before {
+    content: "•";
+    color: var(--accent-red);
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+
+/* Specific decorative elements */
+
+blockquote {
+    border-left: 4px solid var(--accent-gold);
+    margin: 1.5rem 0;
+    padding: 0.5rem 1rem;
+    background-color: rgba(218, 165, 32, 0.1);
+    font-style: italic;
+}
+
+/* Info Boxes / Sidebars if identifiable */
+.sidebar-box {
+    background-color: #e8dcb5;
+    border: 2px solid var(--text-ink);
+    padding: 1rem;
+    margin: 1.5rem 0;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
+    break-inside: avoid;
+}
+
+.sidebar-box h4 {
+    margin-top: 0;
+    color: var(--accent-red);
+    border-bottom: 1px dashed var(--text-ink);
+    padding-bottom: 0.5rem;
+}
+
+/* Side Comments - handwritten margin notes */
+.side-comment {
+    border-left: 4px solid var(--accent-red);
+    margin: 1.5rem 0;
+    padding: 0.8rem 1.2rem;
+    font-family: 'Caveat';
+    background-color: rgba(139, 0, 0, 0.03);
+}
+
+.side-comment h3 {
+    font-family: 'Caveat';
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--accent-red);
+    border-bottom: none;
+    margin-top: 0;
+    margin-bottom: 0.3rem;
+    padding-bottom: 0;
+    line-height: 1.3;
+}
+
+.side-comment p {
+    font-family: 'Caveat';
+    font-size: 1.4rem;
+    line-height: 1.5;
+    font-style: italic;
+    color: var(--text-ink);
+    margin-bottom: 0;
+}
+
+.side-comment li {
+    font-size: 1.4rem;
+}
+
+
+/* Decoration */
+header {
+    text-align: center;
+    margin-bottom: 3rem;
+    border-bottom: 3px double var(--text-ink);
+    padding-bottom: 2rem;
+}
+
+.rule-card {
+    background-color: #fdfae0;
+    border: 3px double #8b4513;
+    padding: 15px;
+    margin-bottom: 25px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+.rule-card h3 {
+    margin-top: 0;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+/* =====================================================
+   Inline Icons – use inside text with <img class="icon-origin"> etc.
+   ===================================================== */
+.icon-origin,
+.icon-adventure,
+.icon-greatness {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    margin: 0 0.15em;
+}
+
+.icon-origin {
+    content: url('img/icons/origin-theme.svg');
+}
+
+.icon-adventure {
+    content: url('img/icons/adventure-theme.svg');
+}
+
+.icon-greatness {
+    content: url('img/icons/greatness-theme.svg');
+}
+
+.icon-backpack,
+.icon-weakness,
+.icon-scratched {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    margin: 0 0.15em;
+}
+
+.icon-backpack {
+    content: url('img/icons/backpack.svg');
+}
+
+.icon-weakness {
+    content: url('img/icons/weakness-tag.svg');
+}
+
+.icon-scratched {
+    content: url('img/icons/scratched.svg');
+}
+
+.icon-question {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    margin: 0 0.15em;
+    content: url('img/icons/question-mark.svg');
+}
+
+/* =====================================================
+   Trope Layout – 2-column grid
+   ===================================================== */
+.trope {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-bottom: 40px;
+    position: relative;
+    padding-top: 15px;
+}
+
+.trope::before {
+    content: '';
+    grid-column: 1 / -1;
+    border-top: 2px solid var(--text-ink);
+}
+
+/* Title elements span full width */
+.trope h4,
+.trope h2 {
+    grid-column: 1 / -1;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.trope h4 {
+    font-size: 1rem;
+    color: var(--accent-red);
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.trope h2 {
+    margin-top: 0;
+    padding-top: 0;
+    border-bottom: none;
+    padding-bottom: 0.5rem;
+    margin-bottom: 10px;
+}
+
+/* Image block */
+.trope-img {
+    display: flex;
+    align-items: stretch;
+}
+
+.trope-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 2px;
+}
+
+/* Text blocks */
+.trope-block {
+    background-color: #fdfae0;
+    border: 1px solid #c9b98a;
+    padding: 15px 18px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.08);
+    break-inside: avoid;
+}
+
+.trope-block h3 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    padding-top: 0;
+    color: var(--text-ink);
+    border-bottom: 1px solid var(--accent-gold);
+    padding-bottom: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.trope-block h5 {
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    margin-top: 0.8rem;
+    margin-bottom: 0.3rem;
+}
+
+.trope-block p {
+    font-size: 0.95rem;
+    margin-bottom: 0.6rem;
+}
+
+.trope-block ul {
+    padding-left: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.trope-block li {
+    font-size: 0.95rem;
+    margin-bottom: 0.3rem;
+}
+
+.trope-block li::before {
+    content: none;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 600px) {
+    .trope {
+        grid-template-columns: 1fr;
+    }
+}
+
+/*###################Aqui começam os cards###################*/
+/* =====================================================
+   Card Wrapper: side-by-side layout
+   ===================================================== */
+.card-origin,
+.card-adventure,
+.card-greatness,
+.card-generic {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(33% - 10px);
+    margin-right: 10px;
+    box-sizing: border-box;
+}
+
+/* =====================================================
+   Shared Card Styles
+   ===================================================== */
+.card-origin,
+.card-adventure,
+.card-greatness,
+.card-generic {
+    position: relative;
+    text-align: center;
+    padding: 5px 15px 20px 15px;
+    margin-bottom: 20px;
+    background-color: #fdfae0;
+    background-image: url('img/asfalt-dark.png');
+    background-repeat: repeat;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.12);
+    border-width: 3px;
+    border-style: double;
+    break-inside: avoid;
+}
+
+/* h5 inside cards – smaller, flush to top */
+.card-origin h5,
+.card-adventure h5,
+.card-greatness h5,
+.card-generic h5 {
+    font-size: 0.7rem;
+    margin-top: 5px;
+    margin-bottom: 0.3rem;
+}
+
+/* Remove list markers inside cards */
+.card-origin ul,
+.card-adventure ul,
+.card-greatness ul,
+.card-generic ul {
+    list-style: none;
+    font-size: 1.2rem;
+    padding-left: 0;
+    margin: 0;
+}
+
+.card-origin li,
+.card-adventure li,
+.card-greatness li,
+.card-generic li {
+    line-height: 1.2;
+    margin-bottom: 0.7rem;
+}
+
+.card-origin li::before,
+.card-adventure li::before,
+.card-greatness li::before,
+.card-generic li::before {
+    content: none;
+}
+
+/* Background icon – small, top-right corner */
+.card-origin::after,
+.card-adventure::after,
+.card-greatness::after {
+    content: '';
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    width: 28px;
+    height: 28px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+/* h3 inside cards */
+.card-origin h3,
+.card-adventure h3,
+.card-greatness h3,
+.card-generic h3 {
+    color: var(--text-ink);
+    border-bottom: none;
+    font-size: 1.6rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* h4 inside cards – smaller, text-ink, with horizontal bar above */
+.card-origin h4,
+.card-adventure h4,
+.card-greatness h4,
+.card-generic h4 {
+    color: var(--text-ink);
+    font-size: 1.1rem;
+    margin-top: 1.2rem;
+    position: relative;
+    padding-top: 0.8rem;
+    border-bottom: none;
+}
+
+.card-origin h4::before,
+.card-adventure h4::before,
+.card-greatness h4::before,
+.card-generic h4::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 15%;
+    width: 70%;
+    border-top: 0.5px solid var(--text-ink);
+}
+
+/* =====================================================
+   Card-Origin  (border & h5: --tag-status)
+   ===================================================== */
+.card-origin {
+    border-color: var(--might-origin);
+}
+
+.card-origin h5 {
+    color: var(--might-origin);
+}
+
+.card-origin::after {
+    background-image: url('img/icons/origin-theme.svg');
+}
+
+/* =====================================================
+   Card-Adventure  (border & h5: --tag-limit)
+   ===================================================== */
+.card-adventure {
+    border-color: var(--tag-limit);
+}
+
+.card-adventure h5 {
+    color: var(--tag-limit);
+}
+
+.card-adventure::after {
+    background-image: url('img/icons/adventure-theme.svg');
+}
+
+/* =====================================================
+   Card-Greatness  (border & h5: --might-greatness)
+   ===================================================== */
+.card-greatness {
+    border-color: var(--might-greatness);
+}
+
+.card-greatness h5 {
+    color: var(--might-greatness);
+}
+
+.card-greatness::after {
+    background-image: url('img/icons/greatness-theme.svg');
+}
+
+/* =====================================================
+   Card-Generic  (border & h5: --might-generic)
+   ===================================================== */
+.card-generic {
+    border-color: var(--might-generic);
+}
+
+.card-generic h5 {
+    color: var(--might-generic);
+}
+
+/* =====================================================
+   Responsive: stack cards on small screens
+   ===================================================== */
+@media (max-width: 600px) {
+
+    .card-origin,
+    .card-adventure,
+    .card-greatness,
+    .card-generic {
+        display: block;
+        width: 100%;
+    }
+}
+
+/*###################Aqui terminam os cards###################*/
