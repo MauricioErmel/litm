@@ -1,0 +1,221 @@
+Prompt para tradução:
+
+Traduza o arquivo '' do inglês para o português brasileiro, se julgar necessário faça adaptações de linguagem, para seu conexto, este texto foi extraído de um livro de RPG chamado Legend in The Mist que tem uma ambientação de "Rustic Fantasy".
+
+Não mude a formatação html, mantenha os textos em suas respectivas tags e não traduza o nome das classes.
+
+Em nenhuma situação mantenha o termo original entre parênteses, não há necessidade.
+
+O arquivo 'dicionario-de-traducao.md' contém os termos utilizados até na tradução, consulte este arquivo para manter a coesão.
+
+Sempre que traduzir um termo entre as tags <p> e </p> preste atenção na concordância, poise se trata de um paragrafo único, mesmo que ocorra a quebra de linha no documento html.
+
+Sempre que traduzir um termo entre as tags <span class="tag-power"> e </span> consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário.
+
+Sempre que traduzir um termo entre as tags <span class="tag-weakness"> e </span> consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário de tradução.
+
+Se julgar algum termo traduzido digno de nota, me informe ao final para que eu adicione ao dicionário de tradução.
+
+
+⚔
+⸙
+♛
+
+
+book-container é a div que deixa tudo numa página branca.
+
+A palavra quote é entendida pela IA melhor, assim a IA entende que é uma div com uma linha vertical.
+
+Criar uma div para os card de ficha de personagem
+
+Tags:
+<span class="tag-power">
+<span class="tag-weakness"><img class="icon-weakness">
+<span class="tag-status">
+
+Para adicionar as imagens ao texto:
+Tema Origem	    <img class="icon-origin">
+Tema Aventura	<img class="icon-adventure">
+Tema Grandeza	<img class="icon-greatness">
+Mochila		    <img class="icon-backpack">
+Fraqueza	    <img class="icon-weakness">
+Riscado		    <img class="icon-scratched">
+
+Card de tema:
+        <div class="card-greatness"> (tipo de div)
+            <h5>MONSTRUOSIDADE</h5> (tipo de tema)
+            <h3><span class="tag-power">Dragão</span></h3> (rótulo principal - Opcional)
+            <ul>
+                <li><span class="tag-power">escamas de dragão</span></li> (rótulo secundário)
+                <li><span class="tag-power">soprar fumaça tóxica</span></li> (rótulo secundário)
+                <li><span class="tag-weakness">odiado e execrado</span></li> (rótulo de fraqueza)
+            </ul>
+            <h4>Fazer as cidades costeiras se curvarem a mim.</h4> (missão - Opcional)
+        </div>
+
+Paginas de tropo:
+    <div class="trope">
+        <h4>Tropos.</h4>
+        <h2>POVO DA VILA.</h2>
+        <div class="trope-img">
+            <img src="img/book-pics/Kelvis_main.webp" alt="Povo da Vila">
+        </div>
+
+        <div class="trope-block">
+            <h3>Ferreiro Suado.</h3>
+            <p>
+                Todos os dias você trabalha o fole, observa o cadinho e então molda o metal inflexível, uma
+                martelada após a outra, até que esteja pronto para servir ao seu propósito. Toda noite você conta
+                    suas moedas e conta suas bênçãos, reservando algo para aqueles que precisam mais, sem a menor ideia
+                    do que está por vir. Em breve, porém, tudo mudará, e será você aquele forjado no fogo.
+                </p>
+                <h5>KITS DE TEMA.</h5>
+                <ul>
+                    <li>
+                        <strong><span class="tag-power">Ferreiro</span></strong> (Habilidade ou Ofício, pág. 102).
+                    </li>
+                    <li>
+                        <strong><span class="tag-power">Forte Como Um Boi</span></strong> (Característica, pág. 104).
+                    </li>
+                    <li>
+                        <strong><span class="tag-power">Coração de Ouro</span></strong> (Personalidade, pág. 100).
+                    </li>
+                </ul>
+                <p>
+                    <img class="icon-question"> Escolha Um:
+                </p>
+                <ul class="choose-one">
+                    <li>
+                        <strong><span class="tag-power">Amor de Infância</span></strong> (Devoção, pág. 94).
+                    </li>
+                    <li>
+                        <strong><span class="tag-power">Trabalhador Árduo</span></strong> (Circunstância, pág. 92).
+                    </li>
+                    <li>
+                        <strong><span class="tag-power">Espada Longa de Herança</span></strong> (Relíquia, pág. 114).
+                    </li>
+                </ul>
+                <p>
+                    Mochila: <span class="tag-power">avental de couro grosso</span>, <span class="tag-power">algumas
+                        ferraduras extras</span>, ou <span class="tag-power">pequena bolsa de moedas</span>.
+                </p>
+            </div>
+    </div>
+
+
+paginas de themebooks:
+    Em branco:
+    <div class="themebook">
+        <div class="themebook-img">
+            <img src="img/book-pics/" alt="">
+        </div>
+        <div class="themebook-block">
+
+        </div>
+        <h3>Theme Kits.</h3>
+
+    </div>
+
+    Preenchida:
+    <div class="themebook">
+        <div class="themebook-img">
+            <img src="img/book-pics/circumstance.webp" alt="Circumstance">
+        </div>
+        <div class="themebook-block">
+            <h5>Origin Themebook</h5>
+            <h2><img class="icon-origin">Circumstance</h2>
+                <h4>BACKGROUND, SOCIAL STANDING, UNIQUE SITUATION, WALK OF LIFE</h4>
+                <p>With this theme, the circumstance in which you currently find yourself
+                    plays a major role in your story. This could entail your social standing
+                    or role, whether you are descended from nobility or born to poverty,
+                    whether you are struggling to survive, hunted for who you are, being the
+                    village fool nobody takes seriously, and so on. This theme type focuses
+                    on where you are in life, your unique situation, whether it is inherent or
+                    temporary.</p>
+                <ul>
+                    <li>What is your place in life and in society?</li>
+                    <li>What’s interesting about where you have found yourself?</li>
+                    <li>What social position do you possess and how long have you had it?</li>
+                    <li>What makes you a stereotypical example of your circumstance? What
+                        makes you stand apart?</li>
+                    <li>Are you a victim of circumstance or did you choose your lot in life?</li>
+                </ul>
+                <h3>Power Tag Questions</h3>
+                <ol class="theme-question">
+                    <li><strong>What Circumstance do you find yourself in?</strong></li>
+                    <li>What tools or trappings of your position or station do you carry?</li>
+                    <li>Who can you call upon or relate to thanks to your Circumstance?</li>
+                    <li>What social skills have you developed as part of your Circumstance?</li>
+                    <li>How can you exploit your Circumstance to get out of trouble?</li>
+                    <li>Where do you go to be with others of similar social status?</li>
+                    <li>What special right or privilege comes with your Circumstance?</li>
+                    <li>What knowledge or knack is common to people in your position?</li>
+                    <li>How have you learned to overcome your Circumstances?</li>
+                    <li>What is the motto or creed you’ve adopted?</li>
+                </ol>
+                <h3>Weakness Tag Questions</h3>
+                <ol class="theme-question">
+                    <li>What’s the biggest challenge you face due to your unique position?</li>
+                    <li>What aspect of your Circumstance do others scorn, shun, or detest?</li>
+                    <li>What kinds of places or situations are off limits to you?</li>
+                    <li>How do others commonly mistreat you?</li>
+                </ol>
+                <h3>Quest Ideas</h3>
+                <ul>
+                    <li>A desire to prove your worth despite your status.</li>
+                    <li>An ambition to become the most successful or archetypal member of
+                        your role.</li>
+                    <li>A binding norm or code you adhere to due to your position.</li>
+                </ul>
+                <h3>Special Improvements</h3>
+                <p><strong>Comfort Zone:</strong> When you camp or sojourn in the environment of your Circumstance, you
+                    may recover
+                    one scratched power tag in addition to any other benefits.</p>
+                <p><strong>Expected Role:</strong> Choose a status that represents how society expects you to behave,
+                    such as friendly,
+                    threatening, or in-charge. Once per session, before you take a social action befitting your expected
+                    role,
+                    you may gain this status at tier 2.</p>
+                <p><strong>Familiar Matters:</strong> There are things everyone in your situation knows. Once per scene,
+                    you may ask the
+                    Narrator for one important detail about a subject related to your Circumstance.</p>
+                <p><strong>Strength From Adversity:</strong> Once per session, when a weakness tag from this theme is
+                    invoked, you may
+                    gain driven-2, which helps this roll and expires after it.</p>
+                <p><strong>Trudging Along:</strong> Choose a type of status that you’ve become accustomed to given your
+                    Circumstance, such
+                    as tired or humiliated. Once per scene, you may ignore a status you have of that type if it is tier
+                    3 or
+                    lower.</p>
+            </div>
+            <h3>Theme Kits.</h3>
+            <div class="card-origin">
+                <h5>CIRCUMSTANCE</h5>
+                <h3><span class="tag-power">Alderperson</span></h3>
+                <p>
+                    <span class="tag-power">chains of office,</span>
+                    <span class="tag-power">rally the people,</span>
+                    <span class="tag-power">peacemaking,</span>
+                    <span class="tag-power">“sorry - I’m needed elsewhere”,</span>
+                    <span class="tag-power">the public house,</span>
+                    <span class="tag-power">first sample,</span>
+                    <span class="tag-power">knows everyone’s business,</span>
+                    <span class="tag-power">let my hair down,</span>
+                    <span class="tag-power">“All we have is each other”</span>
+                </p>
+                <p>
+                    <span class="tag-weakness"><img class="icon-weakness"> threats from without,</span>
+                    <span class="tag-weakness">self-important,</span>
+                    <span class="tag-weakness">talk behind my back,</span>
+                    <span class="tag-weakness">blamed for everything</span>
+                </p>
+                <h4>
+                    Oh, to watch our people
+                    thrive in peace…
+                </h4>
+            </div>
+        </div>
+    </div>
+
+
+

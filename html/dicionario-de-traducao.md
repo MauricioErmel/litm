@@ -101,20 +101,7 @@
 | Our Little Corner of the World | Nosso Pequeno Canto do Mundo | |
 | An Epic Journey | Uma Jornada Épica | |
 | Grit & Politics | Coragem & Política | |
-| Dungeon Crawl | Exploração de Masmorra (Dungeon Crawl) | Mantém original entre parênteses na 1ª menção |
-
-## Arquétipos de Heróis
-
-| Inglês | Português | Notas |
-|---|---|---|
-| Tavern Buddies | Companheiros de Taverna | |
-| Protectors Against the Dark | Protetores Contra a Escuridão | |
-| A Sworn Fellowship | Uma Companhia Juramentada | |
-| A Traveling Band | Um Bando Viajante | |
-| Itinerant Sellswords | Mercenários Itinerantes | |
-| A Powerful House | Uma Casa Poderosa | |
-| Fortune Hunters | Caçadores de Fortuna | |
-| Found Family of Rascals | Família Improvisada de Malandros | |
+| Dungeon Crawl | Exploração de Masmorra | |
 
 ## Nomes Próprios (Não Traduzir)
 
@@ -137,11 +124,6 @@
 | Virtual tabletop (VTT) | Mesa virtual (VTT) | |
 | Vantage point | Posição vantajosa | Exemplo de rótulo |
 | Background | Antecedente | |
-
-## Termos do Capítulo 1 - Criação e Temas
-
-| Inglês | Português | Notas |
-|---|---|---|
 | Themebook | Guia de Tema | Questionário para criação de Tema |
 | Might | Poderio | Nível de escopo/poder |
 | Origin | Origem | Categoria de Poderio |
@@ -152,7 +134,7 @@
 | Possessions | Posses | Tipo de Tema de Poderio variante |
 | General Store | Armazém Geral | Local de opções para a mochila |
 
-## Rotulos / tags
+## Rótulos / tags
 
 | Inglês | Português |
 |---|---|
@@ -390,3 +372,90 @@
 | Devotion | Devoção
 | People | Povo
 | Runic Invocation | Invocação Rúnica
+| strange explosive powder | pó explosivo estranho
+| etched breastplate | peitoral gravado
+| heavy cowl | capuz pesado
+| spell of timely vanishing | feitiço de desaparecimento oportuno
+| potion of recovery | poção de recuperação
+| donkey | burro
+| broom | vassoura
+| herbal cleansing soak | solução de limpeza herbal
+| scroll with unknown spell | pergaminho com feitiço desconhecido
+| blessed sickle | foice abençoada
+| bountiful bushel | alqueire farto
+| warning premonition | premonição de alerta
+| rejuvenating concoction | concoção revigorante
+| jingling tripwire | fio de alarme tilintante
+| weird bark armor | armadura de casca estranha
+| poisoned dirk | adaga envenenada
+| flashbomb | bomba de clarão
+| walking cane | bengala
+| Prodigious Ability | Habilidade Prodigiosa (Tratado como categoria de Kit).
+| gilded goblet | cálice dourado
+| reinforcement troops | tropas de reforço
+| private mountain lodge | chalé particular na montanha
+| saber | sabre
+| vial of poison | frasco de veneno
+| deck of playing cards | baralho de cartas
+| leatherbound book | livro encadernado em couro
+| commoner clothing | roupas de plebeu
+| small bag of gold | pequena bolsa de ouro
+| paring knife | faca de cozinha
+| loaded dice | dados viciados
+| pre-arranged distraction | distração pré-arranjada
+| hooded cloak | capa com capuz
+| rope and hook | corda e gancho
+| sleeping drug | sonífero
+| intimidating mask | máscara intimidadora
+| sturdy spear | lança resistente
+| canvas sack | saco de lona
+| Sweaty Smith | Ferreiro Suado
+| (More Than A) Drunkard | (Mais que um) Bêbado
+| Village Gossip | Fofoqueiro da Vila
+| thick leather apron | avental de couro grosso
+| a few extra horseshoes | algumas ferraduras extras
+| small bag of coins | pequeno saco de moedas
+| half-empty bottle | garrafa meio vazia
+| an unusual jewel | uma joia incomum
+| sad story | história triste
+| tucked-away cookie | biscoito escondido
+| household shrine | santuário doméstico
+| dirt on (choose) | fofoca sobre (escolha)
+| bellows | fole
+| Roguish Scoundrel | Patife Vigarista
+| Avenging Cutthroat | Assassino Vingativo
+| Vulgar Bandit | Bandido Vulgar
+| steel trap | armadilha de aço
+| hunting bow | arco de caça
+| cookware | utensílios de cozinha
+| boiled leather tunic | túnica de couro fervido
+| mace | maça
+| rehearsed joke | piada ensaiada
+| artisanal necklace | colar artesanal
+| spiked roundshield | escudo redondo com pontas
+| alluring musk ointment | pomada de almíscar atraente
+| Grizzled Hunter | Caçador Grisalho
+| Traveling Minstrel | Menestrel Viajante
+| Wildling Outrider | Batedor Selvagem
+| safe-ward medallion | medalhão de proteção
+| embroidered handkerchief | lenço bordado
+| hemp rope | corda de cânhamo
+| risque corset | espartilho ousado
+| long whip | chicote longo
+| solid alibi | álibi sólido
+| draping cloak | capa esvoaçante
+| top-quality boots | botas de alta qualidade
+| smoking pipe | cachimbo
+| Persons-at-Arms | SOLDADOS
+| Sellsword | Espada de Aluguel
+| Dashing Swashbuckler | Espadachim Galante
+| bag of salt | saco de sal
+| sap (club) | cassetete
+| wind chimes | sinos de vento
+| rations | rações
+| tinderbox | pederneira
+| map of the region | mapa da região
+| quarterstaff | bordão
+| oilskin cape | capa impermeável
+| extra ingredients | ingredientes extras
+| FAITHFUL ONES | DEVOTOS
