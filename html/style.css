@@ -378,6 +378,168 @@ header {
     }
 }
 
+/* =====================================================
+   Themebook Layout
+   ===================================================== */
+.themebook {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    border-top: 2px solid var(--text-ink);
+    position: relative;
+}
+
+/* Image column – left side, vertical strip */
+.themebook-img {
+    flex: 0 0 180px;
+    max-width: 180px;
+    position: relative;
+    align-self: flex-start;
+}
+
+.themebook-img img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    /* Fade-out at the bottom */
+    -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
+}
+
+/* Text content column */
+.themebook-block {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: 0 0 0 20px;
+}
+
+.themebook-block h2 {
+    font-family: 'UnifrakturCook', cursive;
+    font-size: 3rem;
+    text-align: left;
+    color: var(--text-ink);
+    border-bottom: 3px double var(--text-ink);
+    margin-top: 0;
+    margin-bottom: 0.3rem;
+    padding-bottom: 0.4rem;
+    line-height: 1.2;
+}
+
+.themebook-block h3 {
+    font-family: 'IM Fell English', serif;
+    font-size: 1.8rem;
+    color: var(--accent-red);
+    border-bottom: none;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.themebook-block h3::after {
+    content: '';
+    flex: 1;
+    height: 1.5px;
+    background-color: var(--text-ink);
+}
+
+.themebook-block h4 {
+    font-size: 0.85rem;
+    color: var(--text-ink);
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0.8rem;
+}
+
+.themebook-block h5 {
+    font-size: 0.8rem;
+    color: var(--text-ink);
+    font-weight: normal;
+    font-style: italic;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 0.2rem;
+}
+
+.themebook-block p {
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+}
+
+.themebook-block ul {
+    padding-left: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.themebook-block li {
+    font-size: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+/* Ordered list with alphabetic markers (A, B, C…) */
+ol.theme-question {
+    list-style: none;
+    counter-reset: alpha-counter;
+    padding-left: 0;
+    margin-top: 0.3rem;
+    margin-bottom: 0.8rem;
+}
+
+ol.theme-question>li {
+    counter-increment: alpha-counter;
+    position: relative;
+    padding-left: 2em;
+    margin-bottom: 0.4rem;
+    font-size: 1rem;
+}
+
+ol.theme-question>li::before {
+    content: counter(alpha-counter, upper-alpha);
+    position: absolute;
+    left: 0;
+    top: 0.05em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.4em;
+    height: 1.4em;
+    background-color: var(--text-ink);
+    color: #fff;
+    font-size: 0.75em;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+/* Theme Kits heading inside themebook (direct child) */
+.themebook>h3 {
+    width: 100%;
+    font-size: 1.8rem;
+    margin-top: 1.5rem;
+    color: var(--text-ink);
+    border-bottom: 1px solid var(--accent-gold);
+    padding-bottom: 0.2rem;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 600px) {
+    .themebook {
+        flex-direction: column;
+    }
+
+    .themebook-img {
+        flex: none;
+        max-width: 100%;
+    }
+}
+
 /*###################Aqui começam os cards###################*/
 /* =====================================================
    Card Wrapper: side-by-side layout
