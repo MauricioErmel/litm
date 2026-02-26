@@ -1,6 +1,8 @@
 Prompt para tradução:
 
-Traduza o arquivo '' do inglês para o português brasileiro, se julgar necessário faça adaptações de linguagem, para seu conexto, este texto foi extraído de um livro de RPG chamado Legend in The Mist que tem uma ambientação de "Rustic Fantasy".
+Traduza o arquivo 'traduzir (1).html' do inglês para o português brasileiro, se julgar necessário faça adaptações de linguagem.
+
+Para seu conexto, este texto foi extraído de um livro de RPG chamado Legend in The Mist que tem uma ambientação de "Rustic Fantasy".
 
 Não mude a formatação html, mantenha os textos em suas respectivas tags e não traduza o nome das classes.
 
@@ -12,10 +14,9 @@ Sempre que traduzir um termo entre as tags <p> e </p> preste atenção na concor
 
 Sempre que traduzir um termo entre as tags <span class="tag-power"> e </span> consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário.
 
-Sempre que traduzir um termo entre as tags <span class="tag-weakness"> e </span> consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário de tradução.
+Sempre que traduzir um termo entre as tags <span class="tag-weakness"> e </span> obrigatoriamente consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo em inglês traduza, adicione ao final da lista do arquivo de dicionário de tradução e me informe ao final.
 
-Se julgar algum termo traduzido digno de nota, me informe ao final para que eu adicione ao dicionário de tradução.
-
+Se julgar algum termo traduzido digno de nota adicione ao final da lista do arquivo de dicionário de tradução e me informe ao final.
 
 ⚔
 ⸙

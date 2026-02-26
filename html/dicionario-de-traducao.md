@@ -136,20 +136,20 @@
 
 ## Rótulos / tags
 
-| Inglês | Português |
-|---|---|
-| Strong as an Ox	| Forte como um Boi |
-| lift a heavy load	| levantar uma carga pesada |
-| clobber a bully	| surra em valentão |
-| tongue tied	| língua presa |
-| Village Healer	| Curandeiro da Vila |
-| strange remedies	| remédios estranhos |
-| quick diagnosis	| diagnóstico rápido |
-| open wounds	| feridas abertas |
-| Sword of Thunder	| Espada do Trovão |
-| shockwave	| onda de choque |
-| call lightning	| invocar raio |
-| roof overhead	| sob um teto |
+| Inglês | Português
+|---|---
+| Strong as an Ox	| Forte como um Boi
+| lift a heavy load	| levantar uma carga pesada
+| clobber a bully	| surra em valentão
+| tongue tied	| língua presa
+| Village Healer	| Curandeiro da Vila
+| strange remedies	| remédios estranhos
+| quick diagnosis	| diagnóstico rápido
+| open wounds	| feridas abertas
+| Sword of Thunder	| Espada do Trovão
+| shockwave	| onda de choque
+| call lightning	| invocar raio
+| roof overhead	| sob um teto
 | Dragon	| Dragão
 | dragon's scales	| escamas de dragão
 | breathe toxic fumes	| soprar fumaça tóxica
@@ -229,7 +229,7 @@
 | Blacksmith	| Ferreiro
 | Hinterland Tracker	| Rastreador do Interior
 | Homesteader	| Colono
-| Skirmisher	| Batedor Armado (Skirmisher)
+| Skirmisher	| Batedor Armado
 | Sleight of Hand	| Prestidigitação
 | Acrobatic Agility	| Agilidade Acrobática
 | Prophetic Visions	| Visões Proféticas
@@ -256,7 +256,7 @@
 | Tales of the Ancients	| Contos dos Antigos
 | Enthralling Entertainer	| Artista Fascinante
 | Excellent Cook	| Excelente Cozinheiro
-| Formidable Weaponmaster	| Formidável Mestre de Armas
+| Formidable Weaponmaster	| Mestre de Armas Formidável
 | Gifted Physician	| Médico Talentoso
 | Professional Burglar	| Ladrão Profissional
 | Seasoned Trader	| Comerciante Experiente
@@ -268,9 +268,9 @@
 | Staff of Spellbinding	| Cajado de Encantamento
 | Disembodied Spirit	| Espírito Desencarnado
 | Hellspawn	| Cria do Inferno
-| Little Hob	| Duende (Little Hob)
+| Little Hob	| Duende
 | One of the Fair Folk	| Um Povo das Fadas
-| Revenant	| Regressado (Revenant)
+| Revenant	| Regressado
 | Troll	| Troll
 | Ascend the Throne	| Ascender ao Trono
 | End the World	| Acabar com o Mundo
@@ -299,7 +299,7 @@
 | Band of Swords	| Bando de Espadas
 | Friend I Just Met	| Amigo que Acabei de Conhecer
 | Guardian Spirit	| Espírito Guardião
-| Imposing Wolfhound	| Lébrel Imponente
+| Imposing Wolfhound	| Lobo de Caça Imponente
 | Inspiring Master	| Mestre Inspirador
 | Irksome Pixie	| Fada Irritante
 | Blessing of the Goddess	| Bênção da Deusa
@@ -390,7 +390,7 @@
 | poisoned dirk | adaga envenenada
 | flashbomb | bomba de clarão
 | walking cane | bengala
-| Prodigious Ability | Habilidade Prodigiosa (Tratado como categoria de Kit).
+| Prodigious Ability | Habilidade Prodigiosa
 | gilded goblet | cálice dourado
 | reinforcement troops | tropas de reforço
 | private mountain lodge | chalé particular na montanha
@@ -459,3 +459,256 @@
 | oilskin cape | capa impermeável
 | extra ingredients | ingredientes extras
 | FAITHFUL ONES | DEVOTOS
+| threats from without | ameaças externas
+| self-important | presunçoso
+| talk behind my back | falam pelas minhas costas
+| blamed for everything | culpado por tudo
+| dogged pursuers | perseguidores implacáveis
+| unkempt and smelly | desleixado e fedorento
+| distrusted stranger | estranho suspeito
+| snitches | delatores
+| overworked | sobrecarregado
+| laborer’s hands | mãos de trabalhador
+| beyond my means | além dos meus meios
+| cruel overseer | feitor cruel
+| constant expenses | despesas constantes
+| sneering royals | realeza desdenhosa
+| dishonorable business | negócios desonrosos
+| challengers to the title | desafiantes ao título
+| poor | pobre
+| noticeably different | notavelmente diferente
+| segregation | segregação
+| never taken seriously | nunca levado a sério
+| reeks of ale | fede a cerveja
+| often thrown out | frequentemente expulso
+| pitiful looks | olhares de pena
+| caregiver | cuidador
+| compassion | compaixão
+| elder’s old weapon (choose) | arma antiga do ancião (escolha)
+| quality time | tempo de qualidade
+| learn secret techniques | aprender técnicas secretas
+| loyal as can be | o mais leal possível
+| preserve dignity | preservar a dignidade
+| “Time is short” | “O tempo é curto”
+| think before I act | pensar antes de agir
+| blind admiration | admiração cega
+| requires constant care | requer cuidados constantes
+| people my age | pessoas da minha idade
+| elder’s failing health | saúde debilitada do ancião
+| training | treinamento
+| muster courage | reunir coragem
+| arming sword | espada de armar
+| learn from watching | aprender observando
+| take the high road | agir com nobreza
+| humility | humildade
+| act honorably | agir honradamente
+| defend the weak | defender os fracos
+| armor repairs | reparos na armadura
+| dishonorable knights | cavaleiros desonrosos
+| lord’s tedious demands | demandas tediosas do lorde
+| haughty | arrogante
+| underhanded enemies | inimigos dissimulados
+| serenading | fazer serenata
+| true love | amor verdadeiro
+| token of affection | símbolo de afeto
+| our secret spot | nosso lugar secreto
+| strength to go on | força para continuar
+| hopeful | esperançoso
+| confident strut | andar confiante
+| “We’ll always have our love” | “Sempre teremos nosso amor”
+| quite the kisser | ótimo beijador
+| loves-me-not | mal-me-quer
+| testing my love | testando meu amor
+| nothing else matters | nada mais importa
+| worldly worries | preocupações mundanas
+| treat maladies | tratar doenças
+| show sympathy | demonstrar compaixão
+| simple medicine | remédio simples
+| plague-stricken lands | terras assoladas por pragas
+| helps me feel worthy | ajuda a me sentir digno
+| ease suffering | aliviar o sofrimento
+| bedside manners | trato com pacientes
+| “Leave no one untreated” | “Não deixar ninguém sem tratamento”
+| avoid infection | evitar infecção
+| too many to treat | muitos para tratar
+| protect our own | proteger os nossos
+| this is home | este é o lar
+| typical local garment (choose) | traje local típico (escolha)
+| gather at the square | reunir na praça
+| many helping hands | muitas mãos ajudando
+| we share one fate | compartilhamos um só destino
+| friendly and kind | amigável e gentil
+| strength in unity | força na união
+| throw a celebration | dar uma festa
+| ill-will between us | má vontade entre nós
+| someone always needs help | alguém sempre precisa de ajuda
+| xenophobia | xenofobia
+| invaders | invasores
+| ritual preparations | preparações rituais
+| solemn concentration | concentração solene
+| essential candles | velas essenciais
+| circle of protection | círculo de proteção
+| receive a vision | receber uma visão
+| sworn to secrecy | juramento de segredo
+| preaching | pregação
+| “All that is threefold is true” | “Tudo o que é triplo é verdadeiro”
+| make an offering | fazer uma oferenda
+| dogmatic thinking | pensamento dogmático
+| must show due reverence | deve mostrar a devida reverência
+| jealousy | ciúme
+| witch hunters | caçadores de bruxas
+| discern sorcery | discernir feitiçaria
+| protective charm | amuleto protetor
+| item used for curse (choose) | item usado para a maldição (escolha)
+| local exorcist | exorcista local
+| hide my curse | esconder minha maldição
+| somber | sombrio
+| monstrous transformation | transformação monstruosa
+| enduring willpower | força de vontade duradoura
+| outcasts | exilados
+| I can never… (choose) | eu nunca posso… (escolha)
+| monster hunters | caçadores de monstros
+| whispers creep me out | sussurros me assustam
+| symbols mark my flesh | símbolos marcam a minha pele
+| find cover | encontrar cobertura
+| battered shield | escudo desgastado
+| memento of someone I lost | lembrança de alguém que perdi
+| fellow refugees | companheiros refugiados
+| move through battlefields | mover-se pelos campos de batalha
+| tall tales of heroism | histórias fantásticas de heroísmo
+| can handle a blade | sabe manusear uma lâmina
+| ruthless | implacável
+| warriors’ jargon | jargão dos guerreiros
+| dishonorable wartime acts | atos de guerra desonrosos
+| avenging kinsmen | parentes vingativos
+| nightmares | pesadelos
+| old injury | lesão antiga
+| Education history of the realm | educação sobre a história do reino
+| finest clothing | roupas finas
+| ink & quill | pena e tinta
+| my old teachers | meus antigos professores
+| scholarly debates | debates acadêmicos
+| earned distinction | distinção conquistada
+| feign knowledge | fingir conhecimento
+| inquisitive mind | mente inquisitiva
+| councilpersons and advisors | membros do conselho e conselheiros
+| incomplete studies | estudos incompletos
+| those who mock learning | aqueles que zombam do aprendizado
+| my knowledge questioned | meu conhecimento questionado
+| wimpy | fraco
+| look over my shoulder | olhar por cima do ombro
+| dirty vagabond cloak | capa suja de vagabundo
+| sand from my homeland | areia da minha terra natal
+| wisdom of my ancestors | sabedoria dos meus ancestrais
+| wilderness survival | sobrevivência nos ermos
+| feared and respected | temido e respeitado
+| speak the lost language | falar o idioma perdido
+| self-reliant | autossuficiente
+| those who offer shelter | aqueles que oferecem abrigo
+| vicious streak | tendência agressiva
+| still hunted | ainda caçado
+| horrific flashbacks | flashbacks horríveis
+| choking fits | crises de sufocamento
+| sight beyond sight | visão além da visão
+| pilgrim’s robes | vestes de peregrino
+| curative water | água curativa
+| mountain ascetics | ascetas da montanha
+| dealings with unnatural beings | acordos com seres não naturais
+| local Wise One | Sábio local
+| spirit-repelling sign | sinal repelente de espíritos
+| incorruptible | incorruptível
+| friendly godlings | pequenas divindades amigáveis
+| lapse of memory | lapso de memória
+| the spirits know my name | os espíritos sabem o meu nome
+| hallucinations | alucinações
+| unsettling gaze | olhar perturbador
+| pack efficiently | arrumar a bagagem com eficiência
+| trusty walking stick | cajado de caminhada de confiança
+| coin of a faraway land | moeda de uma terra distante
+| find a wayguide | encontrar um guia de viagem
+| navigating dangerous terrain | navegar por terrenos perigosos
+| travel stories | histórias de viagem
+| light a fire | acender uma fogueira
+| bold explorer | explorador ousado
+| friends along the way | amigos pelo caminho
+| always leaves when it gets hard | sempre vai embora quando as coisas ficam difíceis
+| wanted in a faraway realm | procurado em um reino distante
+| troubled by wanderlust | atormentado pelo desejo de viajar
+| bad knees | joelhos ruins| wiry and strong | fibroso e forte
+| ululating battle cry | grito de batalha ululante
+| far-rider saddle | sela de montaria de longa distância
+| horse breeding | criação de cavalos
+| plains & grassland | planícies e pradarias
+| trusty steed | corcel de confiança
+| Battlerider spear | lança de Cavaleiro de Batalha
+| keen-sighted | visão aguçada
+| horseback archery | arquearia a cavalo
+| powerful tail | cauda poderosa
+| natural builder | construtor natural
+| traditional whittling knife | faca de entalhe tradicional
+| underwater architecture | arquitetura subaquática
+| wetlands | pântanos
+| Giffold - the fastest swimmer | Giffold - o nadador mais rápido
+| fearsome bite | mordida assustadora
+| resourceful | engenhoso
+| excellent swimmer | excelente nadador
+| striking features | traços marcantes
+| excellent trader | excelente comerciante
+| covered wagon | carroça coberta
+| curious folk tales | contos folclóricos curiosos
+| travel the high roads | viajar pelas estradas principais
+| armed caravan guards | guardas de caravana armados
+| two swords fighting | combate com duas espadas
+| most hospitable | muito hospitaleiro
+| talented artisan | artesão talentoso
+| hardy | resistente
+| mountaineer | montanhista
+| heavy furs | peles pesadas
+| weather-watching | observador do clima
+| sporting competitions | competições esportivas
+| wolffriend | amigo dos lobos
+| fearless onslaught | ataque destemido
+| loyal to the death | leal até a morte
+| brawny | musculoso
+| lithe and graceful | ágil e gracioso
+| woodland stealth | furtividade na floresta
+| evergreen laurel | louros sempre-verdes
+| tree & herb lore | sabedoria sobre árvores e ervas
+| better among the branches | melhor entre os galhos
+| Sylvan hunting party | grupo de caça silvestre
+| leaf-motif sylvan bow | arco silvestre com motivo de folhas
+| animal affinity | afinidade com animais
+| see in the dark | ver no escuro
+| hidden stamina reserves | reservas de vigor ocultas
+| simple magic tricks | truques de magia simples
+| heirloom silver brooch | broche de prata de herança
+| the true Witchblood story | a verdadeira história dos Sangue de Bruxa
+| bask in anonymity | deleitar-se no anonimato
+| share thoughts with a Witchblood | compartilhar pensamentos com um Sangue de Bruxa
+| unexpected crackling bolt | raio crepitante inesperado
+| mysterious and hard to read | misterioso e difícil de decifrar
+| vanish into thin air | desaparecer no ar
+| never considers the odds | nunca considera as desvantagens
+| nepotism | nepotismo
+| easily taunted | facilmente provocado
+| feared by farmers | temido por fazendeiros
+| gentle to a fault | gentil até demais
+| invasive family | família invasiva
+| easily dehydrated | facilmente desidratado
+| animosity with werefoxes | animosidade com homens-raposa
+| easy scapegoat | bode expiatório fácil
+| vindictive when offended | vingativo quando ofendido
+| avoids attachment to a place | evita apego a um lugar
+| accused of witchcraft | acusado de bruxaria
+| impoverished | empobrecido
+| overly sarcastic | excessivamente sarcástico
+| lacks refinement | falta de refinamento
+| ogres seek revenge against me | ogros buscam vingança contra mim
+| barren places | lugares áridos
+| suspicious of humans | suspeita de humanos
+| distant affect | comportamento distante
+| distrusted by city folk | visto com desconfiança pelo povo da cidade
+| no home | sem lar
+| Witchbloods tend to clash | Sangues de Bruxa tendem a entrar em conflito
+| freak occurrences | ocorrências bizarras
+| wanted for valuable blood | procurado por sangue valioso
