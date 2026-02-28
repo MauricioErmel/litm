@@ -712,3 +712,816 @@
 | Witchbloods tend to clash | Sangues de Bruxa tendem a entrar em conflito
 | freak occurrences | ocorrências bizarras
 | wanted for valuable blood | procurado por sangue valioso
+| lasting impression | impressão duradoura
+| learning environment | ambiente de aprendizado
+| inundate with questions | inundar com perguntas
+| all in my notebook | tudo no meu caderno
+| subtle inquiry | investigação sutil
+| passion for the truth | paixão pela verdade
+| inventive | inventivo
+| point out peculiarities | apontar peculiaridades
+| recognize false answers | reconhecer respostas falsas
+| deep thinker | pensador profundo
+| overlook danger | negligenciar o perigo
+| really annoying | muito irritante
+| prying and invasive | bisbilhoteiro e invasivo
+| those with something to hide | aqueles com algo a esconder
+| silence is golden | o silêncio é de ouro
+| intimidating scowl | cenho intimidador
+| austere wardrobe | guarda-roupa austero
+| scathing comment | comentário contundente
+| smoldering rage | fúria latente
+| unexpected kindness | gentileza inesperada
+| correct their mistakes | corrigir os erros deles
+| nothing gets to me | nada me atinge
+| wasn’t born yesterday | não nasci ontem
+| sentimentality | sentimentalismo
+| it gets lonely | pode ser solitário
+| offend my allies | ofender meus aliados
+| piss off the wrong person | irritar a pessoa errada
+| help those in need | ajudar os necessitados
+| inspire others to help | inspirar os outros a ajudar
+| bandages | ataduras
+| reach out to someone | estender a mão a alguém
+| work shoulder to shoulder | trabalhar ombro a ombro
+| resist malicious thoughts | resistir a pensamentos maliciosos
+| coordinate efforts | coordenar esforços
+| easily exploited | facilmente explorado
+| expects recognition | espera reconhecimento
+| they didn’t ask for help | não pediram ajuda
+| attracts cruelty | atrai crueldade
+| life of the party | alma da festa
+| lift up spirits | levantar os ânimos
+| musical instrument (choose) | instrumento musical (escolha)
+| defuse tension | aliviar a tensão
+| joy of life | alegria de viver
+| suddenly serious | subitamente sério
+| cheer them on | animá-los
+| laugh at despair | rir do desespero
+| sense what makes others happy | sentir o que faz os outros felizes
+| inappropriately chirpy | inoportunamente alegre
+| weeping inside | chorando por dentro
+| prone to debauchery | propenso à devassidão
+| austere types | tipos austeros
+| gullible victims | vítimas ingênuas
+| twist the truth | distorcer a verdade
+| concealed pocket | bolso oculto
+| impersonation | personificação
+| disregard for rules | desrespeito às regras
+| believe my own lies | acreditar nas próprias mentiras
+| make up an excuse | inventar uma desculpa
+| question what’s true | questionar o que é verdade
+| discern lies | discernir mentiras
+| caught in a lie | pego em uma mentira
+| hopeless cynicism | cinismo incorrigível
+| lie when I don’t mean to | mentir quando não pretendo
+| past victims | vítimas do passado
+| tight-knit communities | comunidades unidas
+| threaten to expose them | ameaçar expô-los
+| spyglass | luneta
+| start a rumor | iniciar um boato
+| curiosity | curiosidade
+| keep certain secrets | guardar certos segredos
+| raise someone’s standing | elevar o status de alguém
+| dispel unwanted rumors | dissipar boatos indesejados
+| find out the truth | descobrir a verdade
+| rumor gone wild | boato fora de controle
+| pathetic | patético
+| invasive busybody | intrometido invasivo
+| private persons | pessoas reservadas
+| well-off | abastado
+| jewelry crafting | fabricação de joias
+| well-equipped workshop | oficina bem equipada
+| nobles and merchants | nobres e comerciantes
+| mechanical mechanism | mecanismo mecânico
+| plenty of time to work | muito tempo para trabalhar
+| inspect quality | inspecionar qualidade
+| gauge a customer | avaliar um cliente
+| young apprentice | jovem aprendiz
+| attention to detail | atenção aos detalhes
+| shoeing horses | ferrar cavalos
+| my own forge | minha própria forja
+| craft a weapon | forjar uma arma
+| good quality ore | minério de boa qualidade
+| repair metalwork | consertar peças de metal
+| recognize branded metalwork | reconhecer metalurgia com marcação
+| firestarting imp | diabrete que acende fogueiras
+| persistent | persistente
+| human tracks | rastros humanos
+| thick leather boots | botas grossas de couro
+| animals here know me | os animais daqui me conhecem
+| speculate what happened here | especular o que aconteceu aqui
+| favorable weather | clima favorável
+| hide my own tracks | esconder meus próprios rastros
+| keen senses | sentidos aguçados
+| fox companion | companheiro raposa
+| respect for the wild | respeito pela natureza selvagem
+| vegetable gardens | hortas de vegetais
+| sharp hoe | enxada afiada
+| houseguests | hóspedes
+| traditional remedy | remédio tradicional
+| well-stocked pantry | despensa bem abastecida
+| frugal with what I have | frugal com o que eu tenho
+| always planning ahead | sempre planejando com antecedência
+| a few kids | alguns filhos
+| hard working | trabalhador incansável
+| sow panic | plantar o pânico
+| light melee weapon (choose) | arma corpo a corpo leve (escolha)
+| my scouting band | meu grupo de batedores
+| taunt the enemy | provocar o inimigo
+| attack from uphill | atacar de terreno elevado
+| parry blow | aparar golpe
+| tactical awareness | consciência tática
+| riding beast (choose) | fera de montaria (escolha)
+| cunning warfare | guerra ardilosa
+| a fake gold coin | uma moeda de ouro falsa
+| dimwitted observers | observadores tapados
+| plant something on them | colocar algo neles
+| distracting ambience | ambiente com distrações
+| quick catch | apanhar rapidamente
+| sense my person | percepção do próprio corpo
+| actor associate | parceiro ator
+| hustler | trapaceiro
+| magical jewels | joias mágicas
+| rushed | apressado
+| judges by appearances | julga pelas aparências
+| “uncouth savages!” | “selvagens rudes!”
+| specialized weapons | armas especializadas
+| fire gone out | fogo apagado
+| greedy | ganancioso
+| no forge for miles | nenhuma forja por milhas
+| supernatural beings | seres sobrenaturais
+| too many tracks | muitos rastros
+| never looks up | nunca olha para cima
+| ragged and dirty | esfarrapado e sujo
+| limited worldview | visão de mundo limitada
+| kids messing about | crianças bagunçando
+| distrust of strangers | desconfiança de estranhos
+| demands respect | exige respeito
+| heavily armored opposition | oposição com armadura pesada
+| vulnerable when cornered | vulnerável quando encurralado
+| confuses “strong” with “slow” | confunde “forte” com “lento”
+| assumed to be violent | visto como violento
+| tethered valuables | objetos de valor amarrados
+| all eyes on me | todos os olhos em mim
+| overconfident | excesso de confiança
+| tight security | segurança rigorosa
+| vault and tumble | pular e rolar
+| dodge harm | esquivar-se do perigo
+| tightrope walking | andar na corda bamba
+| swing from a chandelier (or similar) | balançar em um lustre (ou similar)
+| quick climber | escalador rápido
+| evaluate weight | avaliar peso
+| showmanship | exibicionismo
+| feign clumsiness | fingir desjeito
+| this will hurt later | isso vai doer depois
+| jealous spectators | espectadores invejosos
+| stretching my luck | abusando da sorte
+| harder when restrained | mais difícil quando contido
+| find the place I saw | encontrar o lugar que vi
+| anticipate attack | antecipar ataque
+| hypnotizing pendulum | pêndulo hipnotizante
+| stop it before it happens | impedir antes que aconteça
+| know my enemies plan | conhecer o plano dos meus inimigos
+| direct the vision | direcionar a visão
+| sense unnatural presences | sentir presenças não naturais
+| parlor tricks | truques de salão
+| lie about how I know | mentir sobre como sei
+| paranoid | paranoico
+| susceptible to possession | suscetível à possessão
+| use it for personal gain | usar para ganho pessoal
+| protective hexes | feitiços de proteção
+| lift heavy loads | levantar cargas pesadas
+| block a blow | bloquear um golpe
+| gloves for better grip | luvas para melhor aderência
+| hurl something heavy | arremessar algo pesado
+| test of strength | teste de força
+| holds and grapples | agarramentos e submissões
+| structural weak points | pontos fracos estruturais
+| smash it loudly | esmagar ruidosamente
+| loose clothing | roupas largas
+| unintentional breakage | quebra não intencional
+| ridiculed as a brute | ridicularizado como um bruto
+| exhausting | exaustivo
+| reinforced steel | aço reforçado
+| quickly recover my strength | recuperar rapidamente minha força
+| water off my back | não me afeta
+| inspirational tattoo | tatuagem inspiradora
+| bear the pain | suportar a dor
+| survive harsh weather | sobreviver a clima severo
+| advance despite opposition | avançar apesar da oposição
+| gauge others tenacity | avaliar a tenacidade dos outros
+| needs little sleep | precisa de pouco sono
+| pretend to yield | fingir se render
+| jaded | calejado
+| draw ire | atrair a ira
+| cant ask for help | não consegue pedir ajuda
+| hard to relate to | difícil de se relacionar
+| draw attention | chamar atenção
+| too beautiful to hurt | belo demais para ser machucado
+| handy hair brush | escova de cabelo sempre à mão
+| get away with anything | sair impune de qualquer coisa
+| the prettiest here | o mais bonito daqui
+| flirting | flertar
+| know when they like me | saber quando gostam de mim
+| signature hair flick | jogar o cabelo característico
+| ruffle up my hair | bagunçar meu cabelo
+| overbearing diva | diva autoritária
+| wrong kind of attention | tipo errado de atenção
+| zero attraction | atração nula
+| expert diver | mergulhador especialista
+| underwater evasion | evasão subaquática
+| fishing spear or trident | lança de pesca ou tridente
+| breathe underwater | respirar debaixo d'água
+| drylander victims | vítimas da terra firme
+| pull them under | puxá-los para o fundo
+| innate echolocation | ecolocalização inata
+| fish out treasure | pescar tesouros
+| gills-concealing scarf | cachecol que esconde as guelras
+| dive too deep | mergulhar fundo demais
+| feared by drylanders | temido pelos habitantes da terra firme
+| strong or large prey | presa forte ou grande
+| uneasy on dry land | inquieto em terra firme
+| betrayal | traição
+| personal gain | ganho pessoal
+| those who are losing faith | aqueles que estão perdendo a fé
+| despair takes root | o desespero cria raízes
+| unexpected obstacles to the plan | obstáculos inesperados ao plano
+| too old for this | velho demais para isso
+| competition | concorrência
+| resent my employer | ressentir meu empregador
+| enemies of my liege | inimigos do meu suserano
+| demand the highest standards | exigir os padrões mais altos
+| a rival courtier | um cortesão rival
+| begrudge my liege’s decision | ressentir a decisão do meu suserano
+| they do kill the messenger | matam mesmo o mensageiro
+| prone to distraction | propenso a distrações
+| mail interceptors | interceptadores de correio
+| boring job | trabalho chato
+| malign forces | forças malignas
+| lacks cunning | falta de astúcia
+| wrathful nature spirits | espíritos da natureza irados
+| taken by sadness | tomado pela tristeza
+| I am expected | eu sou esperado
+| weak in comparison | fraco em comparação
+| another would-be avenger | outro pretenso vingador
+| constant frustration | frustração constante
+| a beacon of hope | um farol de esperança
+| abjure evildoers | repudiar malfeitores
+| rally the people | reunir o povo
+| summon the sacred fire | invocar o fogo sagrado
+| circumvent the laws of evil | contornar as leis do mal
+| shining attire | trajes brilhantes
+| familiar with the darklands | familiarizado com as terras sombrias
+| pray for help from beyond | rezar por ajuda do além
+| repel malign influence | repelir influência maligna
+| practical | prático
+| negotiate a fee | negociar um pagamento
+| stipend for provisions | ajuda de custo para provisões
+| maps | mapas
+| plans, and schematics | projetos e esquemas
+| neutral until hired | neutro até ser contratado
+| wear appropriate protection | vestir proteção adequada
+| marketplace familiarity | familiaridade com o mercado
+| reassure an employer | tranquilizar um empregador
+| dogged determination | determinação obstinada
+| trust in my liege | confiar no meu suserano
+| proclaim a decree | proclamar um decreto
+| command over subjects | comando sobre súditos
+| a healthy dose of privilege | uma dose saudável de privilégio
+| free lodging | alojamento gratuito
+| windborne banner | estandarte levado pelo vento
+| roam the realm | percorrer o reino
+| plea to my liege | apelo ao meu suserano
+| reassert my righteous claim | reafirmar minha justa reivindicação
+| swift and spry | rápido e ágil
+| “Coming through!” | “Abrindo caminho!”
+| fresh horse | cavalo descansado
+| weapon for protection (choose) | arma para proteção (escolha)
+| unhindered passage | passagem desimpedida
+| postal uniform | uniforme postal
+| the roads are my home | as estradas são meu lar
+| demand the customary fee | exigir a taxa habitual
+| tireless | incansável
+| love for all living things | amor por todas as coisas vivas
+| frighten invaders | assustar invasores
+| call upon the beasts | convocar as feras
+| nourishment from the land | alimento da terra
+| unharmed by beasts | ileso pelas feras
+| shillelagh (cudgel) | bastão (clava)
+| familiar terrain | terreno familiar
+| commune with nature | comungar com a natureza
+| regrow deforested tracts | reflorestar áreas desmatadas
+| good memory | boa memória
+| announce your grudges | anunciar seus rancores
+| seething fury | fúria fervilhante
+| others who feel scorned | outros que se sentem desprezados
+| no pretense of sanity | nenhuma pretensão de sanidade
+| weapon of murder (choose) | arma de assassinato (escolha)
+| my enemy’s house | a casa do meu inimigo
+| invoke goddess of vengeance | invocar deusa da vingança
+| start from square one | começar da estaca zero
+| useful contact | contato útil
+| fight for me | lute por mim
+| suitors and fans | pretendentes e fãs
+| let them bask in my light | deixe-os banharem-se na minha luz
+| talk of the town | assunto da cidade
+| shower me with gifts | cobre-me de presentes
+| carnal attraction | atração carnal
+| token of my love | símbolo do meu amor
+| seduction | sedução
+| high opinion of myself | grande opinião sobre mim mesmo
+| those not seeking affection | aqueles que não buscam afeto
+| someone I fancy | alguém de quem gosto
+| scorned exlovers | ex-amantes desprezados
+| those blinded by hatred | aqueles cegos pelo ódio
+| furtive shenanigans | artimanhas furtivas
+| spies and agents | espiões e agentes
+| pull their strings | puxar os cordões
+| the courts of power | as cortes do poder
+| secret weapon stashes | esconderijos de armas secretas
+| corruptible persons | pessoas corruptíveis
+| initiate co-conspirators | iniciar co-conspiradores
+| find leverage | encontrar vantagem
+| nod and smile | acenar e sorrir
+| the noble-minded | mentes nobres
+| past indiscretions | indiscrições passadas
+| rival conspiracy | conspiração rival
+| magical divination | adivinhação mágica
+| collect fees and tariffs | cobrar taxas e tarifas
+| dockhands | estivadores
+| “unfortunate” bureaucracy | burocracia “infeliz”
+| mercantile affairs | assuntos mercantis
+| seized goods | bens apreendidos
+| ships & vessels | navios e embarcações
+| renown across the sea | renome através do mar
+| organize a blockade | organizar um bloqueio
+| bribe officials | subornar oficiais
+| the clergy | o clero
+| guild of caravaneers | guilda de caravaneiros
+| jurisdiction ends beyond the bay | jurisdição termina além da baía
+| supply provisions | fornecer provisões
+| trail of young followers | trilha de jovens seguidores
+| recount a heroic tale | recontar um conto heroico
+| farms and hamlets | fazendas e aldeias
+| welcome to stay | bem-vindo para ficar
+| stoke dreams of glory | alimentar sonhos de glória
+| personal bard | bardo pessoal
+| friendly jests | piadas amigáveis
+| humble and honest | humilde e honesto
+| condescending lords | senhores condescendentes
+| embarrass myself | envergonhar a mim mesmo
+| a better hero than me | um herói melhor do que eu
+| court intrigue | intriga da corte
+| coordinated effort | esforço coordenado
+| foot soldiers | soldados
+| assertive command | comando assertivo
+| my jurisdiction | minha jurisdição
+| well-trained bodyguards | guarda-costas bem treinados
+| the downtrodden | os oprimidos
+| recruitment efforts | esforços de recrutamento
+| quash insubordination | reprimir insubordinação
+| aloof and distant | distante e reservado
+| I have no authority here | não tenho autoridade aqui
+| mistreat followers | maltratar seguidores
+| orders from higher up | ordens de cima
+| supernatural terror | terror sobrenatural
+| grant a blessing | conceder uma bênção
+| ceremonial attendants | assistentes cerimoniais
+| blast the sacrilege | punir o sacrilégio
+| deity’s domain (choose) | domínio da divindade (escolha)
+| vestments | vestimentas
+| address believers | dirigir-se aos crentes
+| appeasing words | palavras apaziguadoras
+| perform a miracle | realizar um milagre
+| shielding halo | auréola protetora
+| heathens | pagãos
+| act against scripture | agir contra as escrituras
+| followers of the anathema | seguidores do anátema
+| celestial matters beyond me | assuntos celestiais além de mim
+| possessive spirits | espíritos possessivos
+| identify an unseen visitor | identificar um visitante invisível
+| repel an apparition | repelir uma aparição
+| know when to run | saber quando correr
+| secretive | sigiloso
+| goblins and boggarts | goblins e boggarts
+| seance | sessão espírita
+| eldritch gods | deuses abissais
+| hamlets and towns | aldeias e cidades
+| chart the best route | traçar a melhor rota
+| anticipate journey hurdles | antecipar obstáculos da jornada
+| versed in many cultures | versado em muitas culturas
+| draw annotated maps | desenhar mapas anotados
+| expert packer | empacotador especialista
+| wide-brimmed hat | chapéu de abas largas
+| survey the land | mapear o terreno
+| the far wilds | os ermos distantes
+| astrological charts | mapas astrológicos
+| infer place and time | inferir lugar e hora
+| navigate by the stars | navegar pelas estrelas
+| counter celestial influence | conter influência celestial
+| speak in riddles | falar por enigmas
+| seasons and cycles | estações e ciclos
+| brass astrolabe | astrolábio de latão
+| clear nights | noites claras
+| the stars reflect the gods | as estrelas refletem os deuses
+| appraise craftsmanship | avaliar artesanato
+| identify origin | identificar origem
+| haggling | pechinchar
+| recognize hidden markings | reconhecer marcações ocultas
+| ciphered ledger | livro-caixa cifrado
+| find specific item | encontrar item específico
+| heavy purse of silver | bolsa pesada de prata
+| frequenter of markets | frequentador de mercados
+| visions of past owners | visões de antigos proprietários
+| ghouls and corpse-eaters | carniçais e devoradores de cadáveres
+| accurate classification | classificação precisa
+| know its weakness | conhecer sua fraqueza
+| know its natural weapons | conhecer suas armas naturais
+| thick skull | crânio espesso
+| monster part alchemy | alquimia com partes de monstro
+| iron chains | correntes de ferro
+| kill it first | matar primeiro
+| demons | demônios
+| Heroes of Gwyrdolin | Heróis de Gwyrdolin
+| identify ruins | identificar ruínas
+| mesmerise listeners | fascinar ouvintes
+| source of inspiration | fonte de inspiração
+| song memorization | memorização de canções
+| language of the ancients | língua dos antigos
+| torch and oil | tocha e óleo
+| trade tales and relics | trocar contos e relíquias
+| visions of a past life | visões de uma vida passada
+| ancient spirits | espíritos ancestrais
+| spirit is hiding | o espírito está se escondendo
+| amateurs | amadores
+| knowing offers no defense | o saber não oferece defesa
+| caves and the underground | cavernas e o subterrâneo
+| rival cartographer | cartógrafo rival
+| rapidly changing geography | geografia em rápida mudança
+| shattered moon | lua despedaçada
+| comets and their meaning | cometas e seus significados
+| coveted by greedy mystics | cobiçado por místicos gananciosos
+| daytime and cloud cover | horário diurno e cobertura de nuvens
+| unfamiliar make | fabricação desconhecida
+| enchanted items | itens encantados
+| disgruntled charlatans | charlatães descontentes
+| harder from afar | mais difícil de longe
+| rare subspecies | subespécies raras
+| can’t get a good look | não consegue ver direito
+| intelligent monsters | monstros inteligentes
+| need a flesh sample | precisa de uma amostra de carne
+| lost dialect | dialeto perdido
+| treasure hunters | caçadores de tesouros
+| just an old story | apenas uma velha história
+| war and battlefields | guerra e campos de batalha
+| the War of Thaumaturges | a Guerra dos Taumaturgos
+| rough transitions | transições bruscas
+| sucker for flattery | suscetível a bajulação
+| hostile audience | público hostil
+| butt of my satire | alvo da minha sátira
+| exposed flank | flanco exposto
+| has a tell | possui um tique revelador
+| overrun with enemies | cercado por inimigos
+| vindictive vanquished foes | inimigos derrotados vingativos
+| illnesses of the blood | doenças do sangue
+| curt and detached | seco e distante
+| dirty environment | ambiente sujo
+| violent patient | paciente violento
+| takes a long time | leva muito tempo
+| can’t resist a taste | não resiste a provar
+| rotten ingredients | ingredientes estragados
+| self-inviting neighbors | vizinhos que se convidam sozinhos
+| too greedy | muito ganancioso
+| loose tongue | língua solta
+| unfamiliar culture | cultura desconhecida
+| they feel cheated | eles se sentem enganados
+| wards of protection | símbolos de proteção
+| lost and confused | perdido e confuso
+| cannot touch | não consegue tocar
+| exorcists | exorcistas
+| cold iron | ferro frio
+| fall for human heroes | apaixonar-se por heróis humanos
+| answers to a fairy liege | responde a um lorde feérico
+| corrupted Fair Folk | Povo das Fadas corrompido
+| hallowed ground | solo sagrado
+| bound by a deal | preso por um acordo
+| easily banished | facilmente banido
+| rival corruptors | corruptores rivais
+| silver weapons | armas de prata
+| cannot cross running water | não consegue cruzar água corrente
+| stench of death | fedor de morte
+| holier-than-thou heroes | heróis moralistas
+| too far from home | muito longe de casa
+| dislikes being caged | não gosta de ser enjaulado
+| too small | pequeno demais
+| ungrateful residents | moradores ingratos
+| avoids sunlight | evita a luz do sol
+| dimwitted | tapado
+| clumsy | desajeitado
+| poachers | caçadores clandestinos
+| make it invisible | tornar invisível
+| make it “magical” | tornar “mágico”
+| inspire wonderment | inspirar admiração
+| absorb starlight | absorver luz das estrelas
+| send it on the wind | enviar pelo vento
+| innocents and fey | inocentes e fadas
+| expose illusions | revelar ilusões
+| allows me to fly | permite voar
+| open a fairy ring portal | abrir portal de círculo de fadas
+| blows in every which way | sopra para todos os lados
+| twisted or foul magic | magia distorcida ou maligna
+| running out | acabando
+| often daydreams | frequentemente tem devaneios
+| mastercrafted weapon | arma magistral
+| parry anything | aparar qualquer coisa
+| symbol of my lineage | símbolo da minha linhagem
+| magic restored in pond water | magia restaurada em água de lago
+| slayer of fiends | assassino de demônios
+| vibrate near danger | vibrar perigo próximo
+| crackling with destructive force | crepitante com força destrutiva
+| fulfill my destiny | cumprir meu destino
+| known far and wide | conhecido longe e perto
+| betraying my heritage | traindo minha herança
+| dark legacy of my lineage | legado sombrio da minha linhagem
+| conjure useful objects | conjurar objetos úteis
+| swallow something unwanted | engolir algo indesejado
+| artistic flair | talento artístico
+| feed it with life force | alimentá-lo com força vital
+| vigorous stirring | mistura vigorosa
+| summon someone specific | invocar alguém específico
+| scry a distant place | observar um lugar distante
+| difficult to dispel | difícil de dissipar
+| conjure monsters | conjurar monstros
+| bulky | volumoso
+| warded boundaries | fronteiras protegidas
+| conjurations slowly evaporate | conjurações evaporam lentamente
+| increasingly lazy | cada vez mais preguiçoso
+| grow gnarly vines | crescer videiras retorcidas
+| grow a thicket | crescer um matagal
+| sense all green life | sentir toda vida verde
+| ample water and nutrients | água e nutrientes abundantes
+| green thumbed | dedo verde
+| entangle and constrict | enredar e constringir
+| ask plants to move | pedir que as plantas se movam
+| speak to plants | falar com plantas
+| unbridled growth | crescimento desenfreado
+| leaves a mess | deixa uma bagunça
+| lack of soil or water | falta de solo ou água
+| susceptible to fire | suscetível ao fogo
+| quiet and pensive | quieto e pensativo
+| thundering punch | soco trovejante
+| lift with giant's strength | levantar com força de gigante
+| feel invincible | sentir-se invencível
+| stronger with a roar | mais forte com um rugido
+| take it on the chin | suportar o golpe
+| the big ones fall first | os grandes caem primeiro
+| see far over land | ver longe sobre a terra
+| giant leap | salto gigante
+| grow into a giant | crescer até virar um gigante
+| doesn't last long | não dura muito
+| easily slips off | escorrega facilmente
+| tight spaces | espaços apertados
+| much-disliked bully | valentão muito antipático
+| make a spell endure | fazer um feitiço durar
+| break enchantment | quebrar encantamento
+| sense nearby enchantments | sentir encantamentos próximos
+| absorb enchantment | absorver encantamento
+| versed in the mystic arts | versado nas artes místicas
+| better if I know the spell | melhor se eu conhecer o feitiço
+| reveal who cast it | revelar quem o lançou
+| reverse a spell | reverter um feitiço
+| font of magical power | fonte de poder mágico
+| weaker with one hand | mais fraco com uma mão
+| unfamiliar magic | magia desconhecida
+| absorbed too much | absorvido demais
+| condescends over other mages | condescendente com outros magos
+| watchful | vigilante
+| parrying | aparador
+| warded | protegido
+| cover | cobertura
+| Eternal Bond | Vínculo Eterno
+| Momentary Bearer | Portador Momentâneo
+| Reckless Discharge | Descarga Imprudente
+| Sentinel | Sentinela
+| Signature Move | Golpe Característico
+| hunted by the monarchy | caçado pela monarquia
+| no true claim to the throne | sem direito verdadeiro ao trono
+| reluctant nobility | nobreza relutante
+| expects royal treatment | espera tratamento real
+| hope-givers | doadores de esperança
+| bouts of indignation | ataques de indignação
+| life has lost all meaning | a vida perdeu todo o sentido
+| forlorn mood | humor desolado
+| real heroes | heróis verdadeiros
+| hope can never die | a esperança nunca pode morrer
+| my love for others | meu amor pelos outros
+| just a broody poser | apenas um posudo melancólico
+| temptations and distractions | tentações e distrações
+| far beyond my power | muito além do meu poder
+| imposing lieutenants | tenentes imponentes
+| think I’m invincible | acho que sou invencível
+| the Demiurge | o Demiurgo
+| I don’t know the way | não sei o caminho
+| fading old legends | velhas lendas que desaparecem
+| implanted thoughts | pensamentos implantados
+| despair in our ranks | desespero em nossas fileiras
+| darkness is in all of us | a escuridão está em todos nós
+| endless tides | marés infinitas
+| holier-than-thou | moralista
+| unfortunate casualties | baixas infelizes
+| no personal life | nenhuma vida pessoal
+| throw the baby out with the bathwater | jogar o bebê fora com a água do banho
+| reviled by the old guard | execrado pela velha guarda
+| prey’s final revenge | a vingança final da presa
+| sickening reek of death | fedor doentio de morte
+| ignore lesser quarry | ignorar caça menor
+| followed by scavengers | seguido por carniceiros
+| the world darkens | o mundo escurece
+| eyepoking luxury | luxo de saltar as mãos
+| no longer sees plain beauty | não vê mais a beleza simples
+| thieves | ladrões
+| slave revolt | revolta de escravos
+| callous | insensível
+| over the top and uninviting | exagerado e nada convidativo
+| construction saboteurs | sabotadores de construção
+| vortex of demonic influence | vórtice de influência demoníaca
+| perceived as condescending | percebido como condescendente
+| can’t have simple fun | não consegue ter diversão simples
+| jealous followers | seguidores ciumentos
+| regular assassination attempts | tentativas regulares de assassinato
+| austere | austero
+| leaves only scorched earth | deixa apenas terra arrasada
+| foes with nothing to lose | inimigos sem nada a perder
+| “no rules” is still a rule | "sem regras" ainda é uma regra
+| unusual integrity | integridade incomum
+| needs a host | precisa de um hospedeiro
+| creator gods | deuses criadores
+| cannot grasp hope | não consegue alcançar a esperança
+| daylight | luz do dia
+| vulnerable to acid | vulnerável a ácido
+| contenders to the throne | concorrentes ao trono
+| underestimates mortals | subestima mortais
+| earth-binding spell | feitiço de aprisionamento na terra
+| soft underbelly | ventre macio
+| other dragons | outros dragões
+| single-minded | mente focada
+| defiling sorcery | feitiçaria profanadora
+| essence linked to (choose) | essência ligada a (escolha)
+| opposing gods | deuses opositores
+| soul – the binding element | alma – o elemento de ligação
+| requires large amounts of element | requer grandes quantidades de elemento
+| forces of entropy | forças da entropia
+| wizards | magos
+| lonely | solitário
+| ancient blood rituals | rituais de sangue antigos
+| stake through the heart | estaca no coração
+| keeper of natural order | guardião da ordem natural
+| lead an arcane ritual | liderar um ritual arcano
+| legendary bodyguard | guarda-costas lendário
+| mages of the realm | magos do reino
+| profoundly wise | profundamente sábio
+| the Tower of Arcane Learning | a Torre de Aprendizado Arcano
+| popular with rural mages | popular entre magos rurais
+| strip a mage of magic | despojar um mago de magia
+| delay and confuse | atrasar e confundir
+| feared by the royal house | temido pela casa real
+| forbidden sorcery | feitiçaria proibida
+| too lenient | indulgente demais
+| pact with a demon | pacto com um demônio
+| issue a royal decree | emitir um decreto real
+| personal advisor | conselheiro pessoal
+| army of the realm | exército do reino
+| cheap labor | mão de obra barata
+| established royal lineage | linhagem real estabelecida
+| the capital city | a cidade capital
+| support of the knight caste | apoio da casta dos cavaleiros
+| Master of Spies | Mestre dos Espiões
+| quash the opposition | reprimir a oposição
+| whispers of a rebellion | sussurros de uma rebelião
+| local banditry | banditismo local
+| lecherous | libertino
+| illegitimate heir | herdeiro ilegítimo
+| underhanded maneuvers | manobras dissimuladas
+| charismatic emissary | emissário carismático
+| cultists in every village | cultistas em cada vila
+| illicit substance trafficking | tráfico de substâncias ilícitas
+| unknown true identity | identidade verdadeira desconhecida
+| catch them unawares | pegá-los desprevenidos
+| loyalist public figures | figuras públicas leais
+| impenetrable guise of shadows | disfarce impenetrável de sombras
+| shock tactics | táticas de choque
+| always a new upstart | sempre um novo arrivista
+| hunted relentlessly | caçado implacavelmente
+| addicted to own substance | viciado na própria substância
+| the cult is a lie | o culto é uma mentira
+| defend against mortals | defender contra mortais
+| wise spirit for a spouse | espírito sábio como cônjuge
+| celestial denizens | habitantes celestiais
+| Essence of Dreams | Essência dos Sonhos
+| blessed with foresight | abençoado com presciência
+| Circles of Power | Círculos de Poder
+| friendly mortals | mortais amigáveis
+| command over the Veil | comando sobre o Véu
+| past visitors | visitantes passados
+| shrinking territories | territórios encolhendo
+| slow to act | lento para agir
+| trading with humans | comerciando com humanos
+| mobilize funds | mobilizar fundos
+| personal banker | banqueiro pessoal
+| merchants and peddlers | comerciantes e vendedores ambulantes
+| precious commodity | mercadoria preciosa
+| sniff out deception | farejar engano
+| profit from war | lucrar com a guerra
+| affluent citizens | cidadãos abastados
+| casual bribery | suborno casual
+| hostile takeover | aquisição hostil
+| troublesome council | conselho problemático
+| unsafe trade routes | rotas comerciais inseguras
+| never content | nunca contente
+| murderer | assassino
+| "Flee, mortals!" | "Fujam, mortais!"
+| one mortal friend | um amigo mortal
+| beasts of the land | bestas da terra
+| ample nourishment | nutrição abundante
+| my lair | meu covil
+| mortals who wish to appease | mortais que desejam apaziguar
+| fear-striking legends | lendas que causam medo
+| sudden attack | ataque súbito
+| fearless heroes | heróis destemidos
+| plague | praga
+| a secret weakness | uma fraqueza secreta
+| majestic | majestoso (assumindo que status pode ser traduzido, mas mantive o número)
+| bloodthirsty | sedento de sangue
+| rambunctious and loud | barulhento e turbulento
+| too drunk to fight | bêbados demais para lutar
+| incorporeal dangers | perigos incorpóreos
+| sets off magic traps | aciona armadilhas mágicas
+| judgemental | julgador
+| easily banished | facilmente banido
+| too many dangers | perigos demais
+| impulsive | impulsivo
+| always wants to play | sempre quer brincar
+| distracted | distraído
+| beyond a dog’s ken | além da compreensão de um cão
+| constant demands | exigências constantes
+| I unfairly compare myself | eu me comparo injustamente
+| called to other duties | chamado para outros deveres
+| they test me | eles me testam
+| drag me down | me arrasta para baixo
+| greater demands | maiores exigências
+| too far out of their way | muito fora do caminho deles
+| wrong friend for this | amigo errado para isso
+| untimely prank | pegadinha inoportuna
+| annoy and distract me | me irrita e me distrai
+| hissy fit | ataque de raiva
+| thick-skinned victims | vítimas insensíveis
+| unworthy recipient | destinatário indigno
+| requires the Goddess’ favor | requer o favor da Deusa
+| noticeable shimmer | brilho perceptível
+| hunted for my faith | caçado pela minha fé
+| well-lit victims | vítimas bem iluminadas
+| needs at least some darkness | precisa de pelo menos um pouco de escuridão
+| darkening aura | aura escurecedora
+| assumed to be evil | presumido como maligno
+| performed in public | realizado em público
+| long rituals | rituais longos
+| mean face | cara de mau
+| witch hunters | caçadores de bruxas
+| higher demons | demônios maiores
+| must identify | precisa identificar
+| the apparition | a aparição
+| requires focus | requer foco
+| they go for me first | eles vão em mim primeiro
+| can’t match trained wizards | não se iguala a magos treinados
+| need to concentrate | precisa se concentrar
+| tends to go boom | tende a explodir
+| unintended magic | magia não intencional
+| holy warriors | guerreiros sagrados
+| consumes life force | consome força vital
+| emaciated visage | semblante emaciado
+| decomposing body | corpo em decomposição
+| limited range | alcance limitado
+| prone to crack | propensa a rachar
+| audience had enough | o público se cansou
+| simple tunes only | somente músicas simples
+| overlooked weak point | ponto fraco negligenciado
+| worn and crumbling | desgastada e desmoronando
+| life outside continues | a vida lá fora continua
+| aerial attacks | ataques aéreos
+| short range | alcance curto
+| require constant sharpening | exigem afiação constante
+| gaining notoriety | ganhando notoriedade
+| heavy armor | armadura pesada
+| loud jingle | tilintar alto
+| I’ve used all the good stuff | já usei todas as coisas boas
+| wanted for banditry | procurado por banditismo
+| cheap trinkets | tranqueiras baratas
+| cumbersome | desajeitado
+| tired after long journey | cansativo após longa jornada
+| perceived as haughty | percebido como arrogante
+| high maintenance | alta manutenção
+| attracts robbers | atrai ladrões
+| too many expenses | despesas demais
+| reputable spender | esbanjador notório
+| money can’t buy | o dinheiro não pode comprar
