@@ -310,7 +310,7 @@
 | Warding Invocations	| Invocações de Proteção
 | Handcrafted Pan Flute	| Flauta de Pã Feita à Mão
 | Hidden Daggers	| Adagas Escondidas
-| Horse & Panoply	| Cavalo & Armadura
+| Horse & Panoply	| Montaria & Armadura
 | Impregnable Stronghold	| Fortaleza Impregnável
 | Pilfered Possessions	| Bens Furtados
 | Untold Riches	| Riquezas Incontáveis
@@ -1525,3 +1525,141 @@
 | too many expenses | despesas demais
 | reputable spender | esbanjador notório
 | money can’t buy | o dinheiro não pode comprar
+| Fellowship of the Amulet | Sociedade do Amuleto
+| growing mistrust | desconfiança crescente
+| easily sidetracked | facilmente distraídos
+| the dark lord’s forces | as forças do lorde das trevas
+| audience with a king | audiência com um rei
+| spend too much time together | passar muito tempo juntos
+| act without thinking | agir sem pensar
+| traps | armadilhas
+| staying in one place for long | ficar em um local por muito tempo
+| excessive force | força excessiva
+| unruly carousing | bebedeira indisciplinada
+| cheap employers | empregadores mão de vaca
+| in over our heads | além da nossa capacidade
+| no clear leader | sem líder claro
+| jealousy | ciúmes
+| a rival house | uma casa rival
+| telling the truth | dizer a verdade
+| not enough rest | sem descanso suficiente
+| overrun | sobrecarregados
+| creeping despair | desespero rastejante
+| told to stand down | mandados a recuar
+| everyone think they’re the tavern’s wine cellar | todo mundo acha que eles são a adega de vinho da taverna
+| gossip hounds | caçadores de fofocas
+| town guard | guarda da cidade
+| too early in the morning | manhã cedo demais
+| lance | lança de montaria
+| Buff coat | Gibão de couro
+| gambeson | gibão acolchoado
+| arming doublet | gibão de armar
+| leather armor | armadura de couro
+| boiled leather armor | armadura de couro fervido
+| hide armor | armadura de pele
+| Jack of plates | jaqueta de placas
+| brigandine | brigantina
+| cuirass | couraça
+| breastplate | peitoral
+| greaves | caneleiras
+| pauldrons | ombreiras
+| chainmail | cota de malha
+| hauberk | cota de malha longa
+| plate armor | armadura de placas
+| Mail & plate | Malha e placa
+| helm | elmo
+| buckler | broquel
+| simple wooden shield | escudo de madeira simples
+| heavy shield | escudo pesado
+| sacred symbol | símbolo sagrado
+| family heraldry | heráldica familiar
+| patron animal | animal patrono
+| attendant | acompanhante
+| boat handler | barqueiro
+| fairy servant | servo fada
+| informant | informante
+| local guide | guia local
+| mule | mula
+| torchbearer | portador de tocha
+| bracers | braçadeiras
+| cape | capa
+| court dress | traje de corte
+| gloves | luvas
+| jewelry | joias
+| jerkin or tunic | gibão ou túnica
+| oilskins | roupas impermeáveis
+| sturdy boots | botas resistentes
+| surcoat | sobreveste
+| travel cloak | capa de viagem
+| vestments | vestimentas
+| antidote | antídoto
+| foot ointment | pomada para os pés
+| healing brew | brebagem de cura
+| healing potion | poção de cura
+| poison | veneno
+| sleep stone | pedra do sono
+| soothing salves | pomadas calmantes
+| tonic | tônico
+| directions to (choose) | direções para (escolha)
+| funny anecdote | anedota engraçada
+| juicy gossip | fofoca suculenta
+| leftover meal recipe | receita de refeição com sobras
+| little prayer | pequena oração
+| memory of sweet smelling bread | memória de pão cheiroso
+| strong comeback | resposta afiada
+| unsolvable conundrum | enigma insolúvel
+| family signet | sinete familiar
+| grandmother’s shawl | xale da avó
+| parchment & ink | pergaminho e tinta
+| pipe & tobacco | cachimbo e tabaco
+| shaving kit | kit de barbear
+| small trophy | pequeno troféu
+| war paint | pintura de guerra
+| fortune telling tools | ferramentas de adivinhação
+| good luck charm | amuleto de sorte
+| prayer beads | contas de oração
+| religious icon | ícone religioso
+| scrying mirror | espelho de vidência
+| spirit-warding symbol | símbolo de proteção espiritual
+| talisman of spiritual power | talismã de poder espiritual
+| wand | varinha
+| bedroll | saco de dormir
+| carving knife | faca de trinchar
+| cloth tent | tenda de pano
+| frying pan | frigideira
+| repair kit | kit de reparo
+| signal whistle | apito de sinal
+| soap & cloth | sabão e pano
+| travel provisions | provisões de viagem
+| waterskin or wineskin | odre de água ou vinho
+| woodcutter’s axe | machado de lenhador
+| battle axe | machado de batalha
+| clubs | clavas
+| cudgels | cacetetes
+| hammers | martelos
+| hunting bows | arcos de caça
+| longbows | arcos longos
+| recurve bows | arcos recurvos
+| flail | mangual
+| spears | lanças
+| halberds | alabardas
+| pikes | piques
+| slingshot | estilingue
+| shepherd’s crook | cajado de pastor
+| wizard’s staff | cajado de mago
+| shortsword | espada curta
+| longsword | espada longa
+| curved sword | espada curva
+| scimitar | cimitarra
+| greatswords | montantes
+| flamberge swords | espadas flamberge
+| great axes | machados grandes
+| warhammers | martelos de guerra
+| well-balanced | bem equilibrada
+| fine craftsmanship | bom artesanato
+| back scabbard | bainha nas costas
+| sharpened and oiled | afiada e oleada
+| consecrated | consagrada
+| etched dedication | dedicatória gravada
+| bag of gold | saco de ouro
+| precious gem | gema preciosa

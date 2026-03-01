@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 2400" preserveAspectRatio="xMidYMin meet">
+  <defs>
+    <linearGradient id="arabesqueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2b2b2b" stop-opacity="0.35"/>
+      <stop offset="30%" stop-color="#2b2b2b" stop-opacity="0.28"/>
+      <stop offset="60%" stop-color="#2b2b2b" stop-opacity="0.18"/>
+      <stop offset="85%" stop-color="#2b2b2b" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#2b2b2b" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <g id="leaf-right">
+      <path d="M0,0 C8,-4 20,-2 28,-10 C32,-14 30,-22 24,-24 C18,-26 12,-20 14,-14 C15,-10 20,-8 24,-10" 
+            fill="none" stroke="currentColor" stroke-width="1.2"/>
+      <path d="M28,-10 C34,-6 40,-12 38,-18 C36,-22 30,-24 28,-20" 
+            fill="none" stroke="currentColor" stroke-width="0.8"/>
+    </g>
+
+    <g id="leaf-left">
+      <path d="M0,0 C-8,-4 -20,-2 -28,-10 C-32,-14 -30,-22 -24,-24 C-18,-26 -12,-20 -14,-14 C-15,-10 -20,-8 -24,-10" 
+            fill="none" stroke="currentColor" stroke-width="1.2"/>
+      <path d="M-28,-10 C-34,-6 -40,-12 -38,-18 C-36,-22 -30,-24 -28,-20" 
+            fill="none" stroke="currentColor" stroke-width="0.8"/>
+    </g>
+
+    <g id="diamond-knot">
+      <path d="M0,-8 L6,0 L0,8 L-6,0 Z" fill="none" stroke="currentColor" stroke-width="1.2"/>
+      <path d="M0,-4 L3,0 L0,4 L-3,0 Z" fill="none" stroke="currentColor" stroke-width="0.8"/>
+    </g>
+
+    <g id="scroll-flourish">
+      <path d="M0,0 C12,-2 22,-8 26,-18 C28,-24 24,-30 18,-30 C12,-30 10,-24 14,-20 C18,-16 24,-18 26,-18" 
+            fill="none" stroke="currentColor" stroke-width="1"/>
+      <path d="M14,-20 C16,-14 12,-8 6,-6" 
+            fill="none" stroke="currentColor" stroke-width="0.7"/>
+      <circle cx="18" cy="-30" r="1.5" fill="currentColor" opacity="0.5"/>
+    </g>
+
+    <g id="rosette">
+      <circle cx="0" cy="0" r="6" fill="none" stroke="currentColor" stroke-width="1"/>
+      <circle cx="0" cy="0" r="3" fill="none" stroke="currentColor" stroke-width="0.7"/>
+      <path d="M0,-6 C4,-10 8,-6 6,0" fill="none" stroke="currentColor" stroke-width="0.8"/>
+      <path d="M6,0 C10,4 6,8 0,6" fill="none" stroke="currentColor" stroke-width="0.8"/>
+      <path d="M0,6 C-4,10 -8,6 -6,0" fill="none" stroke="currentColor" stroke-width="0.8"/>
+      <path d="M-6,0 C-10,-4 -6,-8 0,-6" fill="none" stroke="currentColor" stroke-width="0.8"/>
+    </g>
+
+    <!-- Larger trefoil ornament -->
+    <g id="trefoil">
+      <path d="M0,-10 C5,-14 10,-10 8,-4 C6,0 2,2 0,0" fill="none" stroke="currentColor" stroke-width="0.9"/>
+      <path d="M0,-10 C-5,-14 -10,-10 -8,-4 C-6,0 -2,2 0,0" fill="none" stroke="currentColor" stroke-width="0.9"/>
+      <path d="M0,0 C4,4 4,10 0,12 C-4,10 -4,4 0,0" fill="none" stroke="currentColor" stroke-width="0.9"/>
+      <circle cx="0" cy="0" r="2" fill="none" stroke="currentColor" stroke-width="0.7"/>
+    </g>
+  </defs>
+
+  <g color="#2b2b2b" fill="url(#arabesqueGrad)" stroke="url(#arabesqueGrad)">
+    
+    <!-- ============ TOP ORNAMENT ============ -->
+    <use href="#diamond-knot" x="90" y="20" opacity="0.4"/>
+    <path d="M60,20 C70,20 80,18 90,20 C100,18 110,20 120,20" fill="none" stroke-width="1" opacity="0.35"/>
+    <path d="M90,20 C100,16 110,12 118,18 C124,22 120,30 114,30 C108,30 106,24 110,20" fill="none" stroke-width="1.2" opacity="0.35"/>
+    <path d="M90,20 C80,16 70,12 62,18 C56,22 60,30 66,30 C72,30 74,24 70,20" fill="none" stroke-width="1.2" opacity="0.35"/>
+
+    <!-- ============ MAIN VINE ============ -->
+    <path d="M90,30 C88,60 92,80 90,110 C88,140 92,160 90,190 C88,220 92,240 90,270 C88,300 92,320 90,350 C88,380 92,400 90,430 C88,460 92,480 90,510 C88,540 92,560 90,590 C88,620 92,640 90,670 C88,700 92,720 90,750 C88,780 92,800 90,830 C88,860 92,880 90,910 C88,940 92,960 90,990 C88,1020 92,1040 90,1070 C88,1100 92,1120 90,1150 C88,1180 92,1200 90,1230 C88,1260 92,1280 90,1310 C88,1340 92,1360 90,1390 C88,1420 92,1440 90,1470 C88,1500 92,1520 90,1550 C88,1580 92,1600 90,1630 C88,1660 92,1680 90,1710 C88,1740 92,1760 90,1790 C88,1820 92,1840 90,1870 C88,1900 92,1920 90,1950 C88,1980 92,2000 90,2030 C88,2060 92,2080 90,2110 C88,2140 92,2160 90,2190 C88,2220 92,2240 90,2270 C88,2300 92,2340 90,2390" 
+          fill="none" stroke-width="1.5" opacity="0.3"/>
+    <!-- Secondary vine -->
+    <path d="M90,30 C92,55 88,75 90,105 C92,135 88,155 90,185 C92,215 88,235 90,265 C92,295 88,315 90,345 C92,375 88,395 90,425 C92,455 88,475 90,505 C92,535 88,555 90,585 C92,615 88,635 90,665 C92,695 88,715 90,745 C92,775 88,795 90,825 C92,855 88,875 90,905 C92,935 88,955 90,985 C92,1015 88,1035 90,1065 C92,1095 88,1115 90,1145 C92,1175 88,1195 90,1225 C92,1255 88,1275 90,1305 C92,1335 88,1355 90,1385 C92,1415 88,1435 90,1465 C92,1495 88,1515 90,1545 C92,1575 88,1595 90,1625 C92,1655 88,1675 90,1705 C92,1735 88,1755 90,1785 C92,1815 88,1835 90,1865 C92,1895 88,1915 90,1945 C92,1975 88,1995 90,2025 C92,2055 88,2075 90,2105 C92,2135 88,2155 90,2185 C92,2215 88,2235 90,2265 C92,2295 88,2330 90,2380" 
+          fill="none" stroke-width="0.7" opacity="0.2"/>
+
+    <!-- ============ MOTIFS (repeating pattern every ~75px) ============ -->
+
+    <!-- 1 -->
+    <use href="#leaf-right" x="90" y="60" opacity="0.33"/>
+    <use href="#leaf-left"  x="90" y="65" opacity="0.33"/>
+    <use href="#diamond-knot" x="90" y="95" opacity="0.30"/>
+
+    <!-- 2 -->
+    <use href="#leaf-left"  x="90" y="125" opacity="0.31"/>
+    <use href="#leaf-right" x="90" y="130" opacity="0.31"/>
+    <use href="#scroll-flourish" x="90" y="165" opacity="0.29"/>
+    <g transform="translate(90,165) scale(-1,1)"><use href="#scroll-flourish" opacity="0.29"/></g>
+
+    <!-- 3 -->
+    <use href="#leaf-right" x="90" y="200" opacity="0.29"/>
+    <use href="#leaf-left"  x="90" y="205" opacity="0.29"/>
+    <use href="#diamond-knot" x="90" y="240" opacity="0.27"/>
+
+    <!-- 4 -->
+    <use href="#leaf-left"  x="90" y="270" opacity="0.27"/>
+    <use href="#leaf-right" x="90" y="275" opacity="0.27"/>
+    <use href="#rosette" x="90" y="310" opacity="0.26"/>
+    <use href="#scroll-flourish" x="90" y="315" opacity="0.25"/>
+    <g transform="translate(90,315) scale(-1,1)"><use href="#scroll-flourish" opacity="0.25"/></g>
+
+    <!-- 5 -->
+    <use href="#leaf-right" x="90" y="350" opacity="0.25"/>
+    <use href="#leaf-left"  x="90" y="355" opacity="0.25"/>
+    <use href="#diamond-knot" x="90" y="390" opacity="0.24"/>
+
+    <!-- 6 -->
+    <use href="#leaf-left"  x="90" y="420" opacity="0.24"/>
+    <use href="#leaf-right" x="90" y="425" opacity="0.24"/>
+    <use href="#trefoil" x="90" y="460" opacity="0.23"/>
+    <use href="#scroll-flourish" x="90" y="465" opacity="0.22"/>
+    <g transform="translate(90,465) scale(-1,1)"><use href="#scroll-flourish" opacity="0.22"/></g>
+
+    <!-- 7 -->
+    <use href="#leaf-right" x="90" y="500" opacity="0.22"/>
+    <use href="#leaf-left"  x="90" y="505" opacity="0.22"/>
+    <use href="#diamond-knot" x="90" y="540" opacity="0.21"/>
+
+    <!-- 8 -->
+    <use href="#leaf-left"  x="90" y="565" opacity="0.21"/>
+    <use href="#leaf-right" x="90" y="570" opacity="0.21"/>
+    <use href="#rosette" x="90" y="605" opacity="0.20"/>
+    <use href="#scroll-flourish" x="90" y="610" opacity="0.19"/>
+    <g transform="translate(90,610) scale(-1,1)"><use href="#scroll-flourish" opacity="0.19"/></g>
+
+    <!-- 9 -->
+    <use href="#leaf-right" x="90" y="645" opacity="0.19"/>
+    <use href="#leaf-left"  x="90" y="650" opacity="0.19"/>
+    <use href="#diamond-knot" x="90" y="685" opacity="0.18"/>
+
+    <!-- 10 -->
+    <use href="#leaf-left"  x="90" y="710" opacity="0.18"/>
+    <use href="#leaf-right" x="90" y="715" opacity="0.18"/>
+    <use href="#scroll-flourish" x="90" y="755" opacity="0.17"/>
+    <g transform="translate(90,755) scale(-1,1)"><use href="#scroll-flourish" opacity="0.17"/></g>
+
+    <!-- 11 -->
+    <use href="#leaf-right" x="90" y="785" opacity="0.17"/>
+    <use href="#leaf-left"  x="90" y="790" opacity="0.17"/>
+    <use href="#diamond-knot" x="90" y="830" opacity="0.16"/>
+
+    <!-- 12 -->
+    <use href="#leaf-left"  x="90" y="855" opacity="0.16"/>
+    <use href="#leaf-right" x="90" y="860" opacity="0.16"/>
+    <use href="#trefoil" x="90" y="895" opacity="0.15"/>
+    <use href="#rosette" x="90" y="900" opacity="0.15"/>
+    <use href="#scroll-flourish" x="90" y="905" opacity="0.14"/>
+    <g transform="translate(90,905) scale(-1,1)"><use href="#scroll-flourish" opacity="0.14"/></g>
+
+    <!-- 13 -->
+    <use href="#leaf-right" x="90" y="935" opacity="0.14"/>
+    <use href="#leaf-left"  x="90" y="940" opacity="0.14"/>
+    <use href="#diamond-knot" x="90" y="975" opacity="0.13"/>
+
+    <!-- 14 -->
+    <use href="#leaf-left"  x="90" y="1005" opacity="0.13"/>
+    <use href="#leaf-right" x="90" y="1010" opacity="0.13"/>
+    <use href="#scroll-flourish" x="90" y="1050" opacity="0.12"/>
+    <g transform="translate(90,1050) scale(-1,1)"><use href="#scroll-flourish" opacity="0.12"/></g>
+
+    <!-- 15 -->
+    <use href="#leaf-right" x="90" y="1085" opacity="0.12"/>
+    <use href="#leaf-left"  x="90" y="1090" opacity="0.12"/>
+    <use href="#diamond-knot" x="90" y="1130" opacity="0.11"/>
+
+    <!-- 16 -->
+    <use href="#leaf-left"  x="90" y="1155" opacity="0.11"/>
+    <use href="#leaf-right" x="90" y="1160" opacity="0.11"/>
+    <use href="#rosette" x="90" y="1195" opacity="0.10"/>
+    <use href="#scroll-flourish" x="90" y="1200" opacity="0.10"/>
+    <g transform="translate(90,1200) scale(-1,1)"><use href="#scroll-flourish" opacity="0.10"/></g>
+
+    <!-- 17 -->
+    <use href="#leaf-right" x="90" y="1235" opacity="0.10"/>
+    <use href="#leaf-left"  x="90" y="1240" opacity="0.10"/>
+    <use href="#diamond-knot" x="90" y="1275" opacity="0.09"/>
+
+    <!-- 18 -->
+    <use href="#leaf-left"  x="90" y="1305" opacity="0.09"/>
+    <use href="#leaf-right" x="90" y="1310" opacity="0.09"/>
+    <use href="#trefoil" x="90" y="1345" opacity="0.09"/>
+    <use href="#scroll-flourish" x="90" y="1350" opacity="0.08"/>
+    <g transform="translate(90,1350) scale(-1,1)"><use href="#scroll-flourish" opacity="0.08"/></g>
+
+    <!-- 19 -->
+    <use href="#leaf-right" x="90" y="1385" opacity="0.08"/>
+    <use href="#leaf-left"  x="90" y="1390" opacity="0.08"/>
+    <use href="#diamond-knot" x="90" y="1425" opacity="0.08"/>
+
+    <!-- 20 -->
+    <use href="#leaf-left"  x="90" y="1455" opacity="0.07"/>
+    <use href="#leaf-right" x="90" y="1460" opacity="0.07"/>
+    <use href="#rosette" x="90" y="1495" opacity="0.07"/>
+    <use href="#scroll-flourish" x="90" y="1500" opacity="0.07"/>
+    <g transform="translate(90,1500) scale(-1,1)"><use href="#scroll-flourish" opacity="0.07"/></g>
+
+    <!-- 21 -->
+    <use href="#leaf-right" x="90" y="1535" opacity="0.07"/>
+    <use href="#leaf-left"  x="90" y="1540" opacity="0.07"/>
+    <use href="#diamond-knot" x="90" y="1575" opacity="0.06"/>
+
+    <!-- 22 -->
+    <use href="#leaf-left"  x="90" y="1605" opacity="0.06"/>
+    <use href="#leaf-right" x="90" y="1610" opacity="0.06"/>
+    <use href="#scroll-flourish" x="90" y="1650" opacity="0.06"/>
+    <g transform="translate(90,1650) scale(-1,1)"><use href="#scroll-flourish" opacity="0.06"/></g>
+
+    <!-- 23 -->
+    <use href="#leaf-right" x="90" y="1685" opacity="0.05"/>
+    <use href="#leaf-left"  x="90" y="1690" opacity="0.05"/>
+    <use href="#diamond-knot" x="90" y="1725" opacity="0.05"/>
+
+    <!-- 24 -->
+    <use href="#leaf-left"  x="90" y="1755" opacity="0.05"/>
+    <use href="#leaf-right" x="90" y="1760" opacity="0.05"/>
+    <use href="#trefoil" x="90" y="1795" opacity="0.04"/>
+    <use href="#rosette" x="90" y="1800" opacity="0.04"/>
+    <use href="#scroll-flourish" x="90" y="1805" opacity="0.04"/>
+    <g transform="translate(90,1805) scale(-1,1)"><use href="#scroll-flourish" opacity="0.04"/></g>
+
+    <!-- 25 -->
+    <use href="#leaf-right" x="90" y="1840" opacity="0.04"/>
+    <use href="#leaf-left"  x="90" y="1845" opacity="0.04"/>
+    <use href="#diamond-knot" x="90" y="1880" opacity="0.04"/>
+
+    <!-- 26 -->
+    <use href="#leaf-left"  x="90" y="1910" opacity="0.03"/>
+    <use href="#leaf-right" x="90" y="1915" opacity="0.03"/>
+    <use href="#scroll-flourish" x="90" y="1950" opacity="0.03"/>
+    <g transform="translate(90,1950) scale(-1,1)"><use href="#scroll-flourish" opacity="0.03"/></g>
+
+    <!-- 27 -->
+    <use href="#leaf-right" x="90" y="1985" opacity="0.03"/>
+    <use href="#leaf-left"  x="90" y="1990" opacity="0.03"/>
+    <use href="#diamond-knot" x="90" y="2030" opacity="0.03"/>
+
+    <!-- 28 -->
+    <use href="#leaf-left"  x="90" y="2060" opacity="0.02"/>
+    <use href="#leaf-right" x="90" y="2065" opacity="0.02"/>
+    <use href="#rosette" x="90" y="2100" opacity="0.02"/>
+
+    <!-- 29 -->
+    <use href="#leaf-right" x="90" y="2140" opacity="0.02"/>
+    <use href="#leaf-left"  x="90" y="2145" opacity="0.02"/>
+    <use href="#diamond-knot" x="90" y="2185" opacity="0.02"/>
+
+    <!-- 30 - final wisps -->
+    <use href="#leaf-left"  x="90" y="2220" opacity="0.02"/>
+    <use href="#leaf-right" x="90" y="2225" opacity="0.02"/>
+    <use href="#diamond-knot" x="90" y="2270" opacity="0.01"/>
+    <use href="#leaf-right" x="90" y="2310" opacity="0.01"/>
+    <use href="#leaf-left"  x="90" y="2315" opacity="0.01"/>
+
+  </g>
+</svg>
