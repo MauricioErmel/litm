@@ -297,10 +297,6 @@
                 let lastParentContainer = null;
 
                 headings.forEach(heading => {
-                    // Skip headings that are inside cards, themebook-blocks, trope-blocks, etc.
-                    const parentCard = heading.closest('.card-origin, .card-adventure, .card-greatness, .card-generic, .themebook-block, .trope-block');
-                    if (parentCard) return;
-
                     // Assign a unique id for anchor linking
                     const id = 'nav-heading-' + headingIndex;
                     heading.id = id;
