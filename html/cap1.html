@@ -5,10 +5,452 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Capítulo 1</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* =====================================================
+           Floating Navigation Menu
+           ===================================================== */
+        #nav-toggle {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1001;
+            width: 48px;
+            height: 48px;
+            border: 2px solid var(--accent-gold);
+            border-radius: 6px;
+            background: var(--bg-parchment);
+            background-image: url('img/beige-paper.png');
+            color: var(--accent-red);
+            font-size: 1.6rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+            transition: background-color 0.2s, transform 0.2s;
+            font-family: 'IM Fell English', serif;
+        }
+
+        #nav-toggle:hover {
+            transform: scale(1.08);
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+        }
+
+        #floating-menu {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+            width: 340px;
+            height: 100vh;
+            background: #fffef0;
+            background-image: url('img/beige-paper.png');
+            border-right: 3px double var(--accent-gold);
+            box-shadow: 4px 0 20px rgba(0, 0, 0, 0.2);
+            transform: translateX(-100%);
+            transition: transform 0.35s ease;
+            overflow-y: auto;
+            padding: 80px 20px 30px 20px;
+            box-sizing: border-box;
+            font-family: 'IM Fell English', serif;
+        }
+
+        #floating-menu.open {
+            transform: translateX(0);
+        }
+
+        #floating-menu h3 {
+            font-family: 'UnifrakturCook', cursive;
+            font-size: 1.8rem;
+            color: var(--accent-red);
+            margin: 0 0 1rem 0;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--accent-gold);
+            text-align: center;
+        }
+
+        #menu-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        #menu-list li {
+            margin-bottom: 0;
+            position: relative;
+        }
+
+        #menu-list li::before {
+            content: none;
+        }
+
+        #menu-list a {
+            display: block;
+            text-decoration: none;
+            color: var(--text-ink);
+            padding: 5px 8px;
+            border-radius: 4px;
+            transition: background-color 0.15s, color 0.15s;
+            line-height: 1.35;
+            border-left: 3px solid transparent;
+        }
+
+        #menu-list a:hover {
+            background-color: rgba(218, 165, 32, 0.15);
+            color: var(--accent-red);
+        }
+
+        #menu-list a.active {
+            background-color: rgba(139, 0, 0, 0.08);
+            border-left-color: var(--accent-red);
+            color: var(--accent-red);
+            font-weight: bold;
+        }
+
+        /* Hierarchy indentation */
+        #menu-list .nav-h1 {
+            font-size: 1.05rem;
+            font-weight: bold;
+            padding-left: 8px;
+            margin-top: 12px;
+            color: var(--text-ink);
+        }
+
+        #menu-list .nav-h2 {
+            font-size: 0.95rem;
+            padding-left: 22px;
+            margin-top: 6px;
+        }
+
+        #menu-list .nav-h3 {
+            font-size: 0.85rem;
+            padding-left: 36px;
+            color: #555;
+        }
+
+        /* Divider between file sections */
+        #menu-list .nav-divider {
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--accent-gold), transparent);
+            margin: 10px 0;
+        }
+
+        /* Overlay backdrop */
+        #menu-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.3);
+            z-index: 999;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s, visibility 0.3s;
+        }
+
+        #menu-overlay.visible {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        /* Loading indicator */
+        .loading-indicator {
+            text-align: center;
+            padding: 60px 20px;
+            font-family: 'IM Fell English', serif;
+            font-size: 1.3rem;
+            color: var(--accent-red);
+        }
+
+        .loading-indicator::after {
+            content: '';
+            display: block;
+            width: 40px;
+            height: 40px;
+            margin: 20px auto 0;
+            border: 3px solid var(--accent-gold);
+            border-top-color: var(--accent-red);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Scroll progress bar */
+        #scroll-progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 3px;
+            background: linear-gradient(to right, var(--accent-red), var(--accent-gold));
+            z-index: 1002;
+            transition: width 0.1s;
+        }
+
+        /* Smooth scroll behavior */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            #floating-menu {
+                width: 85vw;
+            }
+        }
+    </style>
 </head>
 
 <body>
+    <!-- Scroll progress bar -->
+    <div id="scroll-progress"></div>
 
+    <!-- Menu toggle button -->
+    <button id="nav-toggle" aria-label="Menu de navegação" title="Menu de navegação">☰</button>
+
+    <!-- Overlay for closing menu -->
+    <div id="menu-overlay"></div>
+
+    <!-- Floating navigation menu -->
+    <nav id="floating-menu">
+        <h3>Navegação</h3>
+        <ul id="menu-list"></ul>
+    </nav>
+
+    <!-- Content container -->
+    <main id="content">
+        <div class="loading-indicator">Carregando conteúdo…</div>
+    </main>
+
+    <script>
+        (function () {
+            'use strict';
+
+            // =====================================================
+            // Configuration: ordered list of HTML files to load
+            // =====================================================
+            const FILES = [
+                '03-054a067-introducao.html',
+                '04-068a069-como-jogar-em-resumo.html',
+                '05-070a081-capitulo-1-a-criacao-de-um-heroi.html',
+                '06-082a091-lista-de-tropos.html',
+                '07-092a131-lista-de-guias-de-tema.html',
+                '08-132a137-the-general-store.html',
+                '09-138a141-the-fellowship.html'
+            ];
+
+            const contentEl = document.getElementById('content');
+            const menuList = document.getElementById('menu-list');
+            const navToggle = document.getElementById('nav-toggle');
+            const floatingMenu = document.getElementById('floating-menu');
+            const menuOverlay = document.getElementById('menu-overlay');
+            const scrollProgress = document.getElementById('scroll-progress');
+
+            // =====================================================
+            // 1. Fetch and inject content from all files
+            // =====================================================
+            async function loadAllContent() {
+                const fragments = [];
+
+                for (const file of FILES) {
+                    try {
+                        const response = await fetch(file);
+                        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                        const html = await response.text();
+
+                        const parser = new DOMParser();
+                        const doc = parser.parseFromString(html, 'text/html');
+                        const container = doc.querySelector('.book-container');
+
+                        if (container) {
+                            fragments.push(container);
+                        }
+                    } catch (err) {
+                        console.warn(`Erro ao carregar ${file}:`, err);
+                    }
+                }
+
+                // Clear loading indicator and inject content
+                contentEl.innerHTML = '';
+                fragments.forEach(frag => {
+                    contentEl.appendChild(document.adoptNode(frag));
+                });
+
+                // After all content is loaded, build navigation
+                buildNavigation();
+                setupScrollSpy();
+            }
+
+            // =====================================================
+            // 2. Build hierarchical navigation from h1, h2, h3
+            // =====================================================
+            function buildNavigation() {
+                const headings = contentEl.querySelectorAll('h1, h2, h3');
+                let headingIndex = 0;
+                let lastParentContainer = null;
+
+                headings.forEach(heading => {
+                    // Skip headings that are inside cards, themebook-blocks, trope-blocks, etc.
+                    const parentCard = heading.closest('.card-origin, .card-adventure, .card-greatness, .card-generic, .themebook-block, .trope-block');
+                    if (parentCard) return;
+
+                    // Assign a unique id for anchor linking
+                    const id = 'nav-heading-' + headingIndex;
+                    heading.id = id;
+                    headingIndex++;
+
+                    // Determine heading level
+                    const level = heading.tagName.toLowerCase(); // h1, h2, h3
+                    const text = heading.textContent.trim();
+
+                    // Check if we're entering a new book-container section
+                    const currentContainer = heading.closest('.book-container');
+                    if (currentContainer && currentContainer !== lastParentContainer) {
+                        // Add visual divider between sections
+                        if (lastParentContainer !== null) {
+                            const divider = document.createElement('li');
+                            divider.className = 'nav-divider';
+                            divider.setAttribute('role', 'separator');
+                            menuList.appendChild(divider);
+                        }
+                        lastParentContainer = currentContainer;
+                    }
+
+                    // Create menu item
+                    const li = document.createElement('li');
+                    const a = document.createElement('a');
+                    a.href = '#' + id;
+                    a.textContent = text;
+                    a.className = 'nav-' + level;
+                    a.dataset.targetId = id;
+
+                    // Click handler: scroll and close menu
+                    a.addEventListener('click', function (e) {
+                        e.preventDefault();
+                        const target = document.getElementById(id);
+                        if (target) {
+                            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
+                        closeMenu();
+                    });
+
+                    li.appendChild(a);
+                    menuList.appendChild(li);
+                });
+            }
+
+            // =====================================================
+            // 3. Scroll Spy – highlight active heading in menu
+            // =====================================================
+            function setupScrollSpy() {
+                const links = menuList.querySelectorAll('a[data-target-id]');
+                if (links.length === 0) return;
+
+                let ticking = false;
+
+                window.addEventListener('scroll', function () {
+                    if (!ticking) {
+                        window.requestAnimationFrame(function () {
+                            updateActiveLink(links);
+                            updateScrollProgress();
+                            ticking = false;
+                        });
+                        ticking = true;
+                    }
+                });
+
+                // Initial call
+                updateActiveLink(links);
+            }
+
+            function updateActiveLink(links) {
+                const scrollTop = window.scrollY;
+                const offset = 120; // offset for activation threshold
+                let activeLink = null;
+
+                links.forEach(link => {
+                    const targetId = link.dataset.targetId;
+                    const target = document.getElementById(targetId);
+                    if (target && target.getBoundingClientRect().top <= offset) {
+                        activeLink = link;
+                    }
+                });
+
+                // Remove all active classes
+                links.forEach(link => link.classList.remove('active'));
+
+                // Set active
+                if (activeLink) {
+                    activeLink.classList.add('active');
+
+                    // Scroll menu to keep active item visible
+                    if (floatingMenu.classList.contains('open')) {
+                        const linkRect = activeLink.getBoundingClientRect();
+                        const menuRect = floatingMenu.getBoundingClientRect();
+                        if (linkRect.top < menuRect.top + 80 || linkRect.bottom > menuRect.bottom - 20) {
+                            activeLink.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+                        }
+                    }
+                }
+            }
+
+            // =====================================================
+            // 4. Scroll progress bar
+            // =====================================================
+            function updateScrollProgress() {
+                const scrollTop = window.scrollY;
+                const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+                const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+                scrollProgress.style.width = progress + '%';
+            }
+
+            // =====================================================
+            // 5. Menu open/close logic
+            // =====================================================
+            function openMenu() {
+                floatingMenu.classList.add('open');
+                menuOverlay.classList.add('visible');
+                navToggle.textContent = '✕';
+            }
+
+            function closeMenu() {
+                floatingMenu.classList.remove('open');
+                menuOverlay.classList.remove('visible');
+                navToggle.textContent = '☰';
+            }
+
+            function toggleMenu() {
+                if (floatingMenu.classList.contains('open')) {
+                    closeMenu();
+                } else {
+                    openMenu();
+                }
+            }
+
+            navToggle.addEventListener('click', toggleMenu);
+            menuOverlay.addEventListener('click', closeMenu);
+
+            // Close menu on Escape key
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Escape' && floatingMenu.classList.contains('open')) {
+                    closeMenu();
+                }
+            });
+
+            // =====================================================
+            // 6. Initialize
+            // =====================================================
+            loadAllContent();
+
+        })();
+    </script>
 </body>
 
 </html>
