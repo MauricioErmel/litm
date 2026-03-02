@@ -128,17 +128,9 @@ li::before {
 }
 
 
-/* Specific decorative elements */
-
-blockquote {
-    border-left: 4px solid var(--accent-gold);
-    margin: 1.5rem 0;
-    padding: 0.5rem 1rem;
-    background-color: rgba(218, 165, 32, 0.1);
-    font-style: italic;
-}
-
-/* Side Comments - handwritten margin notes */
+/* =====================================================
+   Side Comments - handwritten margin notes
+   ===================================================== */
 .side-comment {
     border-left: 4px solid var(--accent-red);
     margin: 1.5rem 0;
@@ -172,6 +164,10 @@ blockquote {
     font-size: 1.4rem;
 }
 
+
+/* =====================================================
+   Rule Card - Generic div for highlighted content
+   ===================================================== */
 .rule-card {
     background-color: #fdfae0;
     border: 3px double #8b4513;
@@ -197,7 +193,11 @@ blockquote {
 .icon-backpack,
 .icon-weakness,
 .icon-scratched,
-.icon-question {
+.icon-question,
+.icon-success,
+.icon-successwithconsequences,
+.icon-consequences,
+.icon-arrowpointingdown {
     display: inline-block;
     width: 1em;
     height: 1em;
@@ -231,6 +231,22 @@ blockquote {
 
 .icon-question {
     content: url('img/icons/question-mark.svg');
+}
+
+.icon-success {
+    content: url('img/icons/success.svg');
+}
+
+.icon-successwithconsequences {
+    content: url('img/icons/successwithconsequences.svg');
+}
+
+.icon-consequences {
+    content: url('img/icons/consequences.svg');
+}
+
+.icon-arrowpointingdown {
+    content: url('img/icons/arrowpointingdown.svg');
 }
 
 /* =====================================================
@@ -714,4 +730,68 @@ ol.theme-question>li::before {
     }
 }
 
-/*###################Aqui terminam os cards###################*/
+/* ################### Exemplos de Rolls ################### */
+
+.roll-example {
+    max-width: 220px;
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #c9b98a;
+    /* Borda fina solicitada */
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    font-family: 'IM Fell English', serif;
+}
+
+.roll-example h5 {
+    color: #6a5b37;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.roll-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+    padding-left: 15px;
+}
+
+.tag-value {
+    background-color: #d1d1d1;
+    color: #333;
+    padding: 2px 10px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    min-width: 32px;
+    text-align: center;
+    clip-path: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%);
+}
+
+.power-total {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+    font-weight: bold;
+    color: var(--text-ink);
+    border-bottom: 1px solid #c9b98a;
+    /* Linha horizontal fina */
+    padding-bottom: 8px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.total-badge {
+    background-color: #5c4b37;
+    color: #fffef0;
+    padding: 2px 10px;
+    font-weight: bold;
+    font-size: 0.85rem;
+    min-width: 32px;
+    text-align: center;
+    clip-path: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%);
+}
