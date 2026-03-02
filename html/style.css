@@ -138,23 +138,6 @@ blockquote {
     font-style: italic;
 }
 
-/* Info Boxes / Sidebars if identifiable */
-.sidebar-box {
-    background-color: #e8dcb5;
-    border: 2px solid var(--text-ink);
-    padding: 1rem;
-    margin: 1.5rem 0;
-    box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
-    break-inside: avoid;
-}
-
-.sidebar-box h4 {
-    margin-top: 0;
-    color: var(--accent-red);
-    border-bottom: 1px dashed var(--text-ink);
-    padding-bottom: 0.5rem;
-}
-
 /* Side Comments - handwritten margin notes */
 .side-comment {
     border-left: 4px solid var(--accent-red);
@@ -189,15 +172,6 @@ blockquote {
     font-size: 1.4rem;
 }
 
-
-/* Decoration */
-header {
-    text-align: center;
-    margin-bottom: 3rem;
-    border-bottom: 3px double var(--text-ink);
-    padding-bottom: 2rem;
-}
-
 .rule-card {
     background-color: #fdfae0;
     border: 3px double #8b4513;
@@ -219,7 +193,11 @@ header {
    ===================================================== */
 .icon-origin,
 .icon-adventure,
-.icon-greatness {
+.icon-greatness,
+.icon-backpack,
+.icon-weakness,
+.icon-scratched,
+.icon-question {
     display: inline-block;
     width: 1em;
     height: 1em;
@@ -239,16 +217,6 @@ header {
     content: url('img/icons/greatness-theme.svg');
 }
 
-.icon-backpack,
-.icon-weakness,
-.icon-scratched {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    vertical-align: middle;
-    margin: 0 0.15em;
-}
-
 .icon-backpack {
     content: url('img/icons/backpack.svg');
 }
@@ -262,11 +230,6 @@ header {
 }
 
 .icon-question {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    vertical-align: middle;
-    margin: 0 0.15em;
     content: url('img/icons/question-mark.svg');
 }
 
