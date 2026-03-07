@@ -28,12 +28,50 @@
 | Burn | Queimar | Gastar rótulo permanentemente por bônus |
 | Improve | Melhora | Marcação de evolução |
 | Improvement | Avanço | Ganho de nível/poder |
+| Special Improvement | Avanço Especial | Melhoria única de tema |
 | Quest | Missão | Objetivo do personagem |
 | Milestone | Marco | Parte da missão alcançada |
 | Promise | Promessa | Recurso ganho ao trocar tema |
 | Moment of Fulfillment | Momento de Realização | Desbloqueado com Promessa |
+| Fulfilled | Realizado(a) | Estado de uma Promessa cumprida |
 | Abandon | Abandono | Marcação negativa no tema |
-| Reaction | Reação | Ação fora do turno |
+| Reaction | Reação | Ação fora do turno | |
+| The Game Loop | O Ciclo de Jogo | |
+| Stakes | Riscos | Scenes with low or no stakes -> Cenas com poucos ou nenhum risco |
+| Spotlight | Holofote | Conceder o holofote a um Herói |
+| Turn | Turno | |
+| Round | Rodada | |
+| Extra feat | Feito extra | |
+| Reaction roll | Rolagem de reação | |
+| initiative roll | rolagem de iniciativa | |
+| Simple / Quick / Detailed way | Maneira Simples / Rápida / Detalhada | |
+| Cut To The Chase | Vá Direto ao Ponto | |
+| Indirect tags | Rótulos indiretos | |
+| Prep action | Ação de preparo | |
+| The Rule of Minimum One | A Regra do Mínimo de Um | |
+| Making a Sacrifice | Fazendo Um Sacrifício | |
+| Ill Tidings | Más Notícias | já aparece como parte da mecânica de falha grave |
+| Miracle | Milagre | nível de sucesso 10+ no sacrifício |
+| Fate | Destino | nível de sucesso 7-9 no sacrifício |
+| In Vain | Em Vão | nível de sucesso 6- no sacrifício |
+| Painful / Scarring / Grave | Doloroso / Cicatrizante / Grave | níveis de Sacrifício da tabela |
+| Consequences | Consequências | |
+| Blocked | Bloqueado | |
+| Complication | Complicação | |
+| Exposure | Exposição | |
+| New Challenge | Novo Desafio | |
+| Yes, But... | Sim, Mas... | |
+| Negative Effects | Efeitos Negativos | |
+| Reactions | Reações | |
+| Narrative Shield | Escudo Narrativo | |
+| Great Success | Grande Sucesso | |
+| Push Your Luck | Forçar a Sua Sorte | |
+| Throw caution to the wind | Jogar a cautela ao vento | |
+| Hedge your risks | Proteger os seus riscos | |
+| Favored | Favorecido | |
+| Imperiled | Ameaçado | |
+| Extremely Favored | Extremamente Favorecido | |
+| Extremely Imperiled | Extremamente Ameaçado | |
 
 ## Personagens e Estrutura Narrativa
 
@@ -67,6 +105,8 @@
 | Camping | Acampamento | Fase de descanso |
 | Reflect | Refletir | Ação de acampamento |
 | Camp Action | Ação de Acampamento | |
+| Sojourn | Estadia | Período de acampamento ou descanso |
+| Death Spiral | Espiral da Morte | Efeito em cascata de status negativos |
 
 ## Livro e Capítulos
 
@@ -133,6 +173,9 @@
 | Magic | Magia | Tipo de Tema de Poderio variante |
 | Possessions | Posses | Tipo de Tema de Poderio variante |
 | General Store | Armazém Geral | Local de opções para a mochila |
+| Breakthrough | Momento decisivo | Relacionado a uma Missão (Quest) |
+| Betrayal | Traição | Relacionado a uma Missão (Quest) |
+| Vulnerability | Vulnerabilidade | Sinônimo para rótulo de fraqueza |
 
 ## Rótulos / tags
 
@@ -1663,3 +1706,379 @@
 | etched dedication | dedicatória gravada
 | bag of gold | saco de ouro
 | precious gem | gema preciosa
+| in-love | apaixonado
+| webbed | enredado
+| surprised | surpreso
+| lessen beguiled | diminuir enfeitiçado
+| shocked | chocado
+| impressed | impressionado
+| bleeding | sangrando
+| poisoned | envenenado
+| convinced | convencido
+| charmed | encantado
+| martial training | treinamento marcial
+| self discipline | autodisciplina
+| royal emissary | emissário real
+| clarity of thought | clareza de pensamento
+| makeshift spear | lança improvisada
+| local militia | milícia local
+| Local Militia | Milícia Local
+| forest spirit | espírito da floresta
+| aura of fire | aura de fogo
+| curse of clumsiness | maldição de falta de jeito
+| invisibility | invisibilidade
+| bale of hay | fardo de feno
+| heavy rain | chuva forte
+| ancient ward | proteção antiga
+| spell of protection | feitiço de proteção
+| thick mist | névoa espessa
+| curse of false visions | maldição de falsas visões
+| magic lantern | lanterna mágica
+| Magic Lantern | Lanterna Mágica
+| reveals the dead | revela os mortos
+| dispel illusion | dissipar ilusão
+| A Good Longbow | Um Bom Arco Longo
+| full quiver | aljava cheia
+| long range | longo alcance
+| Provisions | Provisões
+| trusty rope | corda de confiança
+| warm clothes | roupas quentes
+| Map of the Realm | Mapa do Reino
+| all the back roads | todas as estradas secundárias
+| pitchforks | forcados
+| committed to the cause | comprometida com a causa
+| Glorn, The Wayguide | Glorn, O Guia
+| scout ahead | ir na frente
+| knows these parts | conhece estas partes
+| Hedge Golem | Golem de Arbusto
+| sprout vines | brotar vinhas
+| towering hulk | brutamontes imponente
+| avert accident | evitar acidente
+| sense danger | sentir perigo
+| requires strength | exige força
+| wasteful use | desperdício
+| ink runs when wet | tinta escorre quando molhada
+| untrained | destreinada
+| difficult to light | difícil de acender
+| sour disposition | disposição azeda
+| slashing weapons | armas cortantes
+| visible to witches | visível para bruxas
+| friendly | amigável
+| raging | enfurecido
+| prone | caído
+| distracted | distraído
+| off-balance | desequilibrado
+| blessed | abençoado
+| hobbled | tolhido
+| drained | drenado
+| humiliated | humilhado
+| parrying | aparando
+| blinded | cego
+| poised | preparado
+| shielded | escudado
+| heartbroken | coração-partido
+| hostile | hostil
+| exposed | exposto
+| tangled | emaranhado
+| fatigued | fatigado
+| hungry | faminto
+| invigorated | revigorado
+| paralyzed | paralisado
+| disoriented | desorientado
+| afraid | com medo
+| intoxicated | embriagado
+| focused | focado
+| oblivious | desatento
+| tempted | tentado
+| tight-lipped | calado
+| outraged | indignado
+| hefty-purse | bolsa-cheia
+| indebted | endividado
+| burning | em-chamas
+| drowning | afogando
+| foggy | nebuloso
+| teetering-on-the-edge | balançando-na-beirada
+| broken | quebrado
+| time-passes | tempo-passa
+| ritual-progress | progresso-ritual
+| transforming | transformando
+| filling-up | enchendo
+| faction-respect | respeito-da-facção
+| terribly-cursed | terrivelmente-amaldiçoado
+| restrained | contido
+| ostracized | ostracizado
+| killed | morto
+| hurt | machucado
+| scared | assustado
+| bonded | vinculado
+| purged | expurgado
+| appeased | apaziguado
+| hot/cold | quente/frio
+| friendly/hostile | amigável/hostil
+| hidden/exposed | escondido/exposto
+| hypnotized | hipnotizado
+| calmed | acalmado
+| goaded-to-attack | provocado-a-atacar
+| warded-against-magic | protegido-contra-magia
+| sated | saciado
+| zealous | zeloso
+| fainted | desmaiado
+| catatonic | catatônico
+| athletic | atlético
+| rock climber | escalador de rochas
+| climbing pick | picareta de escalada
+| inquiring mind | mente inquiridora
+| attentive | atento
+| easy footholds | apoios fáceis para os pés
+| animal handler | domador de animais
+| calming whispers | sussurros calmantes
+| scent of death | cheiro de morte
+| leather armor | armadura de couro
+| sugar cube | cubo de açúcar
+| sociable | sociável
+| exchange stories | trocar histórias
+| carousing | farra
+| intimidation | intimidação
+| swindler | vigarista
+| a round of drinks | uma rodada de bebidas
+| physician | médico
+| bandage wounds | enfaixar ferimentos
+| a compass | uma bússola
+| navigate by stars | navegar pelas estrelas
+| reckless | imprudente
+| bad reputation | má reputação
+| weak sword parry | bloqueio de espada fraco
+| bad patient | mau paciente
+| raining | chovendo
+| wild | selvagem
+| grouchy | rabugento
+| short-on-supplies | com-poucos-suprimentos
+| focus | foco
+| advancing-up | avançando-para-cima
+| wounded | ferido
+| offended | ofendido
+| convinced | convencido
+| beguiled | enganado
+| confident | confiante
+| enraged | enfurecido
+| aiming | mirando
+| warded | protegido
+| despaired | desesperado
+| thawing | descongelando
+| freezing | congelando
+| ferocious | feroz
+| map | mapa
+| weak spot | ponto fraco
+| shield | escudo
+| sharp senses | sentidos aguçados
+| basic spear training | treinamento básico com lança
+| spell of lightning bolt | feitiço de raio
+| potion of valor | poção da bravura
+| fine cloak | capa fina
+| ethereal guardian | guardião etéreo
+| coughing affliction | aflição de tosse
+| Potion of Strength | Poção de Força
+| strengthened | fortalecido
+| aim | mira
+| catching-up | alcançando
+| fruits | frutas
+| strong | forte
+| quick-fingered | dedos rápidos
+| some lockpicking tricks | alguns truques de arrombamento de fechaduras
+| winded | sem-fôlego
+| upset | chateado
+| stunned | atordoado
+| winter-preparations | preparações-de-inverno
+| distracting crows | corvos que distraem
+| blind spot | ponto cego
+| sad | triste
+| webbed | agarrado-pela-teia
+| inebriated | embriagado
+| embarrassing past | passado constrangedor
+| hastened | apressado
+| parry | aparar
+| chainmail | cota de malha
+| round shield | escudo redondo
+| heavy axe | machado pesado
+| flower wreath | coroa de flores
+| cunning | astúcia
+| feign a dodge | fingir uma esquiva
+| quick reflexes | reflexos rápidos
+| tumble away | afastar-se rolando
+| chandelier | lustre
+| great jokes | ótimas piadas
+| a sunny day | um dia ensolarado
+| giant spider traps | armadilhas de aranha gigante
+| stiff upper lip | manter as aparências
+| sharp retort | resposta áspera
+| tales of the ancients | lendas dos antigos
+| pocket mirror | espelho de bolso
+| strong spirit | espírito forte
+| enchantress | feiticeira
+| restrictive armor | armadura restritiva
+| King of the Riverlands | Rei das Terras Fluviais
+| Veteran of Many Battles | Veterano de Muitas Batalhas
+| Seasoned Explorer | Explorador Experiente
+| Storm Titan | Titã das Tempestades
+| Monster Hunter | Caçador de Monstros
+| Master Beastmaster | Mestre Domador de Feras
+| Briar Witch | Bruxa dos Espinheiros
+| Dryad | Dríade
+| Archdruid | Arquidruida
+| Tavern Bard | Bardo de Taverna
+| Royal Herald | Arauto Real
+| The World’s Most Beautiful Voice | A Voz Mais Bela do Mundo
+| Master of Spies | Mestre dos Espiões
+| hard to impress | difícil de impressionar
+| burns easily | queima com facilidade
+| numbing salve | pomada anestésica
+| peddler | mascate
+| battle stance | postura de batalha
+| boots | botas
+| dagger | adaga
+| beautiful vista | bela vista
+| annoying gnats | mosquitos irritantes
+| spies everywhere | espiões por toda parte
+| heartening music | música animadora
+| positive attitude | atitude positiva
+| rainy | chuvoso
+| bruised | machucado
+| tired | cansado
+| harm | machucar
+| wounds | ferimentos
+| off-balance | desequilibrados
+| surround | cercar
+| prone | caído
+| blind | cegar
+| tactical-advantage | vantagem tática
+| boulder | pedregulho
+| hornets’ nest | ninho de vespas
+| intimidating | intimidar
+| can’t be hurt by steel | não pode ser ferido por aço
+| susceptible to music | suscetível à música
+| put-to-sleep | colocar para dormir
+| placate | aplacar
+| bond | vincular
+| weapon | arma
+| bow | arco
+| additional arrows | flechas adicionais
+| armor | armadura
+| shield | escudo
+| talisman | talismã
+| good bed | boa cama
+| healthy food | comida saudável
+| medicinal herbs | ervas medicinais
+| infection | infecção
+| disease | doença
+| difficulty breathing | dificuldade de respirar
+| locked joints | articulações travadas
+| snare | laço
+| bear trap | armadilha para ursos
+| hidden | escondida
+| outrun | ultrapassar
+| heavy canopy | copa densa
+| rock outcrop | afloramento rochoso
+| good defensive position | boa posição defensiva
+| fresh water | água fresca
+| warm fire | fogueira quente
+| proper shelter | abrigo adequado
+| low visibility | baixa visibilidade
+| someone’s territory | território de alguém
+| vigilant | vigilante
+| chilly winds | ventos frios
+| unnerving sounds | sons enervantes
+| long lasting | longa duração
+| short-on-supplies | poucos suprimentos
+| edible | comestíveis
+| suspicious-looking berries | frutas de aparência suspeita
+| hunting traps | armadilhas de caça
+| fishing pole | vara de pesca
+| abundant game | caça abundante
+| hunger | fome
+| spices | temperos
+| recipes | receitas
+| relaxed | relaxados
+| well-fed | bem alimentados
+| discontent | descontentes
+| hungry | famintos
+| cosy atmosphere | atmosfera aconchegante
+| worries | preocupações
+| encourage | encorajar
+| whetstone | pedra de amolar
+| finishing oils | óleos de acabamento
+| honed edge | fio afiado
+| cold | frio
+| dehydrated | desidratado
+| slippery | escorregadia
+| misty | enevoado
+| warm clothes | roupas quentes
+| sturdy boots | botas resistentes
+| oil lamp | lamparina a óleo
+| high vantage point | posição vantajosa alta
+| clear view | visão limpa
+| alert | alerta
+| surprised | surpreso
+| clearing | remover
+| repairing | consertar
+| climbing | escalar
+| cranky | rabugento
+| map of the area | mapa da área
+| advice from the locals | conselho aos moradores locais
+| getting lost | se perder
+| desperate | desespero
+| weary | exausto
+| agitated | agitada
+| grooming kit | kit de higiene
+| combat trained | treinado para combate
+| brave | corajoso
+| scared | medo
+| toolbox | caixa de ferramentas
+| handler | condutor
+| darkness | escuridão
+| trapsmith's kit | kit de armadilheiro
+| lockpick set | kit de arrombamento
+| secured lock | fechadura trancada
+| game trails | trilhas de caça
+| darkroots | raízes sombrias
+| distiller | destilador
+| boiler | caldeirão
+| cheesecloth | gaze
+| mortar and pestle | almofariz e pilão
+| high quality | alta qualidade
+| workshop | oficina
+| toolset | conjunto de ferramentas
+| raw materials | matérias-primas
+| apprentice | aprendiz
+| reinforced | reforçado
+| well-balanced | bem equilibrado
+| impressive | impressionante
+| custom-made | feito sob medida
+| round of beers | rodada de cervejas
+| pile of coins | pilha de moedas
+| charming smile | sorriso charmoso
+| quick talk | lábia rápida
+| leverage | vantagem
+| impressive dress | vestido impressionante
+| customary gift | presente tradicional
+| stolen armor | armadura roubada
+| hard to read | difícil de ler
+| aloof | distante
+| counter-argument | contra-argumento
+| obscuring | ofuscante
+| obscure | obscuro
+| misleading | enganoso
+| drowsy | sonolento
+| sick | doente
+| fortify | fortificar
+| bruised-fingers | dedos machucados
+| frustration | frustração
+| disheartened | desanimado
+| confident | confiante
+| short-on-coin | com poucas moedas
+| agreeable | receptivo
+| elusive | elusivo
+| brewed | preparado
+| complete | completar
+| parley | parlamentar
+| recruit | recrutar
+| deceive | enganar

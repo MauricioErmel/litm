@@ -1,0 +1,12 @@
+Quero separar o arquivo 'traduzir.html' em varios arquivos, dividindo a cada 250 linhas, mas não quero fazer isso manualmente, por isso crie um script python para ler o arquivo 'traduzir.html' e separa-lo em varios arquivos, cada parte com 250 linhas do arquivo 'traduzir.html', é importante ter o contexto, então presente atenção para não quebrar um paragrafo <p> no meio, por exemplo.
+
+Traduza o arquivo 'traduzir (1).html' do inglês para o português brasileiro, se julgar necessário faça adaptações de linguagem.
+Para seu conexto, este texto foi extraído de um livro de RPG chamado Legend in The Mist que tem uma ambientação de "Rustic Fantasy".
+Não mude a formatação html, mantenha os textos em suas respectivas tags e não traduza o nome das classes.
+Em nenhuma situação mantenha o termo original entre parênteses, não há necessidade.
+O arquivo 'dicionario-de-traducao.md' contém os termos utilizados até agora na tradução, consulte este arquivo para manter a coesão.
+Sempre que traduzir um termo entre as tags <p> e </p> preste atenção na concordância, poise se trata de um paragrafo único, mesmo que ocorra a quebra de linha no documento html.
+Sempre que traduzir um termo entre as tags <span class="tag-power"> e </span> consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário.
+Sempre que traduzir um termo entre as tags <span class="tag-weakness"> e </span> obrigatoriamente consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário.
+empre que traduzir um termo entre as tags <span class="tag-limit"> e </span> obrigatoriamente consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário.
+Se julgar algum termo traduzido digno de nota adicione na lista do arquivo de dicionário de tradução e me informe ao final.
