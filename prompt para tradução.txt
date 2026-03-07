@@ -10,3 +10,6 @@ Sempre que traduzir um termo entre as tags <span class="tag-power"> e </span> co
 Sempre que traduzir um termo entre as tags <span class="tag-weakness"> e </span> obrigatoriamente consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário.
 empre que traduzir um termo entre as tags <span class="tag-limit"> e </span> obrigatoriamente consulte o arquivo 'dicionario-de-traducao.md' e verifique a tradução que já foi utilizada para este termo abaixo de "## Rótulos / tags", se não encontrar um termo equivalente em inglês traduza e me informe no final para que e possa adicionar neste arquivo de dicionário.
 Se julgar algum termo traduzido digno de nota adicione na lista do arquivo de dicionário de tradução e me informe ao final.
+
+
+Adicione ao arquivo 'dicionario-de-traducao.md' os termos novos que você mencionou, faça isso com todas as suas respostas anteriores dessa conversa também, estou pedindo agora porque só vi agora que você não está adicionando automaticamente no dicionario de tradução, a partir de agora faça isso automaticamente, mas tome cuidado para não repetir termos.

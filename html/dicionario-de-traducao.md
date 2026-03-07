@@ -72,6 +72,18 @@
 | Imperiled | Ameaçado | |
 | Extremely Favored | Extremamente Favorecido | |
 | Extremely Imperiled | Extremamente Ameaçado | |
+| Arrive at Journey’s End | Chegar ao Fim da Jornada | Tipo de Momento de Realização |
+| Retirement | Aposentadoria | |
+| Be Reforged | Ser Reforjado | Tipo de Momento de Realização |
+| Rebuild Hero | Reconstruir Herói | |
+| Gain a Quintessence | Ganhar uma Quintessência | Tipo de Momento de Realização |
+| Quintessence | Quintessência | |
+| Shake The Foundations Of Magic | Abalar as Fundações da Magia | Tipo de Momento de Realização |
+| New Magic | Nova Magia | |
+| Speak Words Eternal | Falar Palavras Eternas | Tipo de Momento de Realização |
+| Enchantment | Encantamento | |
+| Unearth Lost Truths | Desenterrar Verdades Perdidas | Tipo de Momento de Realização |
+| Discovery | Descoberta | |
 
 ## Personagens e Estrutura Narrativa
 
@@ -151,6 +163,7 @@
 | Son of Oak | Nome da equipe/editora |
 | West Marches | Nome de cenário/estilo de campanha |
 | The Heap-Thing of Skunk Glen | Traduzido como "A Coisa-do-Entulho do Vale do Gambá" |
+| Wurm Tyrant | Traduzido como "Verme Tirano" |
 
 ## Outros Termos Recorrentes
 
@@ -176,6 +189,7 @@
 | Breakthrough | Momento decisivo | Relacionado a uma Missão (Quest) |
 | Betrayal | Traição | Relacionado a uma Missão (Quest) |
 | Vulnerability | Vulnerabilidade | Sinônimo para rótulo de fraqueza |
+| Malignance | Malignidade | |
 
 ## Rótulos / tags
 
@@ -2080,5 +2094,50 @@
 | brewed | preparado
 | complete | completar
 | parley | parlamentar
+| The Dalish Strongman | O Homem Forte de Dalish
+| feats of strength | feitos de força
+| bone-shattering punch | soco quebra-ossos
+| Follower of the Goddess | Seguidor da Deusa
+| former village healer | ex-curandeiro da vila
+| healing rituals | rituais de cura
+| dark forces | forças das trevas
+| Avenger of the Land | Vingador da Terra
+| the Defilers | os Profanadores
+| Angler | Pescador
+| content in simple life | contente com a vida simples
+| the coastal cities | as cidades costeiras
+| haunting past | passado assombrador
+| Frivolous | Fútil
+| My Own Tavern | Minha Própria Taverna
+| Cook of Delicacies | Cozinheiro de Iguarias
+| Borderland Scout | Batedor das Fronteiras
+| Ranger of the Wilds | Patrulheiro dos Ermos
+| Wanderlands | Wanderlands
+| Plight of the Defilers | Praga dos Profanadores
 | recruit | recrutar
 | deceive | enganar
+| Band of Blades | Bando das Lâminas
+| Boisterous Minstrel | Menestrel Espalhafatoso
+| place of healing | lugar de cura
+| library of the ancients | biblioteca dos antigos
+| beauty of the wild | beleza dos ermos
+| Beyond Luck | Além da Sorte
+| Canny One | O Astuto
+| Dark Horse | O Azarão
+| Diligent Drudge | Trabalhador Diligente
+| Fumbling Master | Mestre Atrapalhado
+| Jack of Many Lives | Perito de Muitas Vidas
+| Larger Than Life | Maior que a Vida
+| Loyal Companion | Companheiro Leal
+| Lucky Bastard | Bastardo Sortudo
+| Magus Magnificent | Mago Magnífico
+| Master of Craft | Mestre do Ofício
+| Master of the Little Things | Mestre das Pequenas Coisas
+| Nine Lives | Nove Vidas
+| Old Hand | Veterano
+| Pillar of Wisdom | Pilar da Sabedoria
+| The Bearer | O Portador
+| The Common Hero | O Herói Comum
+| Virtuoso | Virtuoso
+| blessing of protection | bênção de proteção
+| eternal love | amor eterno
