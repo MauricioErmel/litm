@@ -2141,3 +2141,131 @@
 | Virtuoso | Virtuoso
 | blessing of protection | bênção de proteção
 | eternal love | amor eterno
+| magical transportation | transporte mágico
+| wind magic | magia do vento
+| witch | bruxa
+| ride the winds | cavalgar os ventos
+| Invoking of True Names | Invocação de Nomes Verdadeiros
+| Woodland Witch | Bruxa da Floresta
+| Ghastly Wraith | Aparição Horripilante
+| true names of natural forces | nomes verdadeiros das forças naturais
+| art of concealment | arte da ocultação
+| incorporeal form | forma incorpórea
+| true name of the north wind | nome verdadeiro do vento norte
+| salve of detoxification | pomada de desintoxicação
+| consume a soul | consumir uma alma
+| etch names instead of speaking | gravar nomes em vez de falar
+| substitute ingredients | substituir ingredientes
+| difficult to banish | difícil de banir
+| earth-shaking diatribe | diatribe que abala a terra
+| magic gentle as a doe | magia gentil como uma corça
+| draw power from my grief | extrair poder do meu luto
+| those whose true name I know | aqueles cujo nome verdadeiro eu conheço
+| stronger at night | mais forte à noite
+| where the Veil is thin | onde o Véu é fino
+| Tome of Ancient Naming | Tomo de Nomes Antigos
+| antler wand | varinha de chifre
+| victim’s blood | sangue da vítima
+| lip reading | leitura labial
+| tales of the forest witches | contos das bruxas da floresta
+| funerary rites | ritos funerários
+| nameless things | coisas inomináveis
+| direct confrontation | confronto direto
+| consecrated grounds | terrenos consagrados
+| names must be spoken out loud | nomes devem ser falados em voz alta
+| requires a quiet space | exige um espaço silencioso
+| must feel bitterness | deve sentir amargura
+| disturbs the order of Creation | perturba a ordem da Criação
+| slowly transforming into an animal | transformando-se lentamente em um animal
+| leaves an emotional trace | deixa um traço emocional
+| favors words over instinct | favorece palavras em vez de instinto
+| bodiless | sem corpo
+| storm titan | titã da tempestade
+| hurl thunderbolts | lançar raios
+| stronger during storms | mais forte durante tempestades
+| uncontrolled destruction | destruição descontrolada
+| mind alteration | alteração mental
+| spell of slumber | feitiço de sono
+| requires gestures | exige gestos
+| physical barriers | barreiras físicas
+| enlightening incense | incenso iluminador
+| something of theirs | algo deles
+| ceremonial sites | locais cerimoniais
+| ward evil | proteger contra o mal
+| exhausting | exaustivo
+| unrecognizable face | rosto irreconhecível
+| unbearable stench | fedor insuportável
+| stunted arm | braço atrofiado
+| enfeebled mind | mente enfraquecida
+| forked tail | cauda bifurcada
+| superior position | posição superior
+| healing poultice | emplastro de cura
+| deadly poison | veneno letal
+| sunroot salve | pomada de raiz-solar
+| night faerie's gift | presente da fada noturna
+| frugal practitioner | praticante frugal
+| hair of a nixie | fio de cabelo de nixie
+| firebloom | flor-de-fogo
+| crimson dewdrop | gota de orvalho carmesim
+| Bone-Warming Tea | Chá Aquece-Ossos
+| venomweed | erva-venenosa
+| gravetouch fungus | fungo toque-do-túmulo
+| Petrifying Oil | Óleo Petrificante
+| burning smoke powder | pólvora de fumaça ardente
+| calming tea | chá calmante
+| cleansing brew | infusão purificante
+| fireproof balm | bálsamo à prova de fogo
+| growth elixir | elixir de crescimento
+| magnetizing oil | óleo magnetizante
+| memory dew | orvalho da memória
+| necrotic spider venom | veneno necrótico de aranha
+| owl vision drops | gotas de visão de coruja
+| pain-relief poultice | cataplasma analgésico
+| paralyzing poison | veneno paralisante
+| quickening dust | pó de aceleração
+| restorative potion | poção restauradora
+| rockskin balm | bálsamo pele-de-rocha
+| stamina brew | infusão de vigor
+| strength elixir | elixir de força
+| water-breathing elixir | elixir de respiração aquática
+| venom neutralizer | neutralizador de veneno
+| basilisk scale | escama de basilisco
+| blazing thornfruit | espinho-flamejante
+| bloodvine | videira-de-sangue
+| dusk ivy | hera do crepúsculo
+| frostcap | chapéu-de-gelo
+| spidervine silk | seda de aranha-trepadeira
+| focusing draught | elixir de concentração
+| energizing tea | chá energizante
+| enraging powder | pó enfurecedor
+| mixing recipes | misturar receitas
+| delicious taste | sabor delicioso
+| willing recipients | destinatários dispostos
+| harvesting plants | colheita de plantas
+| skulduggery | tramoia
+| soothe pain | aliviar a dor
+| sleeping draught | elixir do sono
+| quick application | aplicação rápida
+| anatomy | anatomia
+| sweetmint moss | musgo de hortelã-doce
+| community's gratitude | gratidão da comunidade
+| lethal poisons | venenos letais
+| paralytic poisons | venenos paralíticos
+| aromatic concealment | dissimulação aromática
+| exotic creatures and plants | criaturas e plantas exóticas
+| poison-coated dagger | adaga envenenada
+| blend into the crowd | fundir-se na multidão
+| establish trust | conquistar confiança
+| secret identity | identidade secreta
+| hostile situations | situações hostis
+| long preparation | longa preparação
+| accidental self-exposure | autoexposição acidental
+| too pushy | insistente demais
+| uncooperative patients | pacientes não cooperativos
+| materials | materiais
+| foul smells | cheiros desagradáveis
+| haunted by failures | assombrado pelos fracassos
+| spoils quickly | estraga rapidamente
+| requires direct exposure | requer exposição direta
+| vengeful victims | vítimas vingativas
+| deeply fearful | profundamente medroso
