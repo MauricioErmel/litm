@@ -505,7 +505,7 @@ li::before {
     background-color: var(--text-ink);
 }
 
-.themebook-block h4 {
+.themebook-block h5 {
     font-size: 0.85rem;
     color: var(--text-ink);
     font-weight: bold;
@@ -515,7 +515,7 @@ li::before {
     margin-bottom: 0.8rem;
 }
 
-.themebook-block h5 {
+.themebook-block h6 {
     font-size: 0.8rem;
     color: var(--text-ink);
     font-weight: normal;
@@ -523,22 +523,6 @@ li::before {
     letter-spacing: 1px;
     margin-top: 0;
     margin-bottom: 0.2rem;
-}
-
-.themebook-block p {
-    font-size: 1rem;
-    margin-bottom: 0.8rem;
-}
-
-.themebook-block ul {
-    padding-left: 1.2rem;
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-}
-
-.themebook-block li {
-    font-size: 1rem;
-    margin-bottom: 0.3rem;
 }
 
 /* Ordered list with alphabetic markers (A, B, C…) */
@@ -553,7 +537,7 @@ ol.theme-question {
 ol.theme-question>li {
     counter-increment: alpha-counter;
     position: relative;
-    padding-left: 2em;
+    padding-left: 1em;
     margin-bottom: 0.4rem;
     font-size: 1rem;
 }

@@ -84,6 +84,7 @@
 | Enchantment | Encantamento | |
 | Unearth Lost Truths | Desenterrar Verdades Perdidas | Tipo de Momento de Realização |
 | Discovery | Descoberta | |
+| Way of Magic | Manifestação Mágica | |
 
 ## Personagens e Estrutura Narrativa
 
@@ -406,7 +407,7 @@
 | Knows Every Province	| Conhece Todas as Províncias
 | Shapeshifting	| Metamorfose
 | Witchcraft | Bruxaria
-| Alchemy & Herbalism | Alquimia e Fitoterapia
+| Alchemy & Herbalism | Alquimia e Herbalismo
 | Landshaping | Moldar a Terra
 | Dominion | Domínio
 | Mastery | Maestria
@@ -2268,4 +2269,466 @@
 | spoils quickly | estraga rapidamente
 | requires direct exposure | requer exposição direta
 | vengeful victims | vítimas vingativas
+| deeply fearful | profundamente medroso| community’s gratitude | gratidão da comunidade
+| mortar and pestle, harvesting plants | almofariz e pilão, colher plantas
+| night faerie’s gift | presente da fada da noite
+| pain-relief poultice | cataplasma para dor
+| hostile situations | situações hostis
+| spoils quickly | estraga rápido
+| uncooperative patients | pacientes não cooperativos
+| long preparation | preparação longa
+| accidental self-exposure | autoexposição acidental
+| too pushy | muito insistente
+| materials | materiais
+| foul smells | odores fétidos
+| haunted by failures | assombrado por falhas
+| lethal poisons | venenos letais
+| paralytic poisons | venenos paralíticos
+| antidotes | antídotos
+| aromatic concealment | ocultação aromática
+| exotic creatures and plants | criaturas e plantas exóticas
+| poison-coated dagger | adaga revestida de veneno
+| blend into the crowd, establish trust | misturar-se à multidão, estabelecer confiança
+| secret identity | identidade secreta
+| requires direct exposure | requer exposição direta
+| vengeful victims | vítimas vingativas
 | deeply fearful | profundamente medroso
+| fey’s-disapproval | desaprovação-da-fada |
+| fey’s-favor | favor-da-fada |
+| appear harmless | parecer inofensivo |
+| arousing envy | despertando inveja |
+| battle premonitions | premonições de batalha |
+| become invisible | ficar invisível |
+| bravery | bravura |
+| cloak of protection | manto de proteção |
+| cure a malady | curar uma doença |
+| dance till you drop | dançar até cair |
+| dramatic entrances | entradas dramáticas |
+| echoing laughter | risada ecoante |
+| eerie shadows | sombras sinistras |
+| enchant beverages | encantar bebidas |
+| endure harsh weather | suportar clima rigoroso |
+| enticing presence | presença sedutora |
+| ethereal sword-fighting | luta de espadas etérea |
+| Fair Folk heraldry | heráldica do Povo das Fadas |
+| fiery combatant | combatente impetuoso |
+| floral scent | aroma floral |
+| fox tail | rabo de raposa |
+| friendly hearth | lareira amigável |
+| frosty breath | hálito gelado |
+| ghostly sound of horns | som fantasmagórico de chifres |
+| glowing eyes | olhos brilhantes |
+| goat legs | pernas de bode |
+| golden spear | lança dourada |
+| grumpy mood | humor rabugento |
+| hide secrets | esconder segredos |
+| high tension moments | momentos de alta tensão |
+| horns | chifres |
+| incite aggression | incitar agressão |
+| inflame crowds | inflamar multidões |
+| inflict bewilderment | infligir perplexidade |
+| inhuman stamina | vigor inumano |
+| itchy garments | roupas que coçam |
+| light an uncanny cooking fire | acender uma fogueira de cozinha misteriosa |
+| loose-tongued braggart | tagarela fanfarrão |
+| loosen inhibitions | afrouxar inibições |
+| luminous skin | pele luminosa |
+| magic-countering blade | lâmina anuladora de magia |
+| mantle of fire | manto de fogo |
+| mimic sounds | imitar sons |
+| mock the mighty | zombar dos poderosos |
+| momentarily change appearance | mudar momentaneamente de aparência |
+| move through the Mists | mover-se pelas Névoas |
+| nimble fingers | dedos ágeis |
+| perform household chores | realizar tarefas domésticas |
+| political savvy | perspicácia política |
+| prickly behind | traseiro espinhoso |
+| provoke | provocar |
+| quick retorts | respostas rápidas |
+| raven spies | espiões corvos |
+| read hidden vulnerabilities | ler vulnerabilidades ocultas |
+| repel invaders | repelir invasores |
+| respected diplomat | diplomata respeitado |
+| restorative release | liberação restauradora |
+| rousing passions | paixões estimulantes |
+| shorter now | mais baixo agora |
+| stinted weapon arm | braço de arma atrofiado |
+| strange brew of healing | poção estranha de cura |
+| strange laughter | risada estranha |
+| summon the summer | convocar o verão |
+| the house familiar | o familiar da casa |
+| unhindered by inebriation | não prejudicado pela embriaguez |
+| unlucky away from home | azarado longe de casa |
+| unrelenting sneeze | espirro implacável |
+| unruly mane of hair | juba de cabelo rebelde |
+| <img class="icon-weakness">a dour or severe mood | <img class="icon-weakness">um humor carrancudo ou severo |
+| always sunny where I am | sempre ensolarado onde estou |
+| <img class="icon-weakness">cold conditions | <img class="icon-weakness">condições frias |
+| <img class="icon-weakness">hob is easily offended | <img class="icon-weakness">hob ofende-se facilmente |
+| <img class="icon-weakness">household animals | <img class="icon-weakness">animais domésticos |
+| <img class="icon-weakness">magical banishment | <img class="icon-weakness">banimento mágico |
+| a history of property damage | um histórico de danos à propriedade |
+| distracts allies | distrai aliados |
+| draws aggression | atrai agressão |
+| haughty and aloof | arrogante e distante |
+| occasionally missing tools | ferramentas faltando ocasionalmente |
+| physically taxing | fisicamente exaustivo |
+| reputation questioned | reputação questionada |
+| requires milk | exige leite |
+| snoopy neighbors | vizinhos bisbilhoteiros |
+| Land-essence | essência-da-terra |
+| earth-3 | terra-3 |
+| land-essence | essência-da-terra |
+| land-ruined | terra-arruinada |
+| metal-1 | metal-1 |
+| water-2 | água-2 |
+| desolate:6 | desolada:6 |
+| adapt to danger | adaptar-se ao perigo |
+| animal speech | fala dos animais |
+| better if key dates are known | melhor se as datas principais forem conhecidas |
+| blend into the wild | misturar-se à natureza |
+| bloody vengeance | vingança sangrenta |
+| business acumen | faro para negócios |
+| call forth a frost golem | invocar um golem de gelo |
+| craft a weapon of ice | forjar uma arma de gelo |
+| create shelter | criar abrigo |
+| defensive shift | mudança defensiva |
+| direct local essence | direcionar essência local |
+| effects compound over time | os efeitos se acumulam com o tempo |
+| encourage plant growth | incentivar o crescimento das plantas |
+| etched golden compass | bússola de ouro gravada |
+| find the path | encontrar o caminho |
+| forage anywhere | forragear em qualquer lugar |
+| frozen wilderness | região árida congelada |
+| gigantic body | corpo gigantesco |
+| guiding others | guiar os outros |
+| magma flow | fluxo de magma |
+| nature’s protector | protetor da natureza |
+| raise icy barrier | erguer barreira de gelo |
+| rugged charm | charme rústico |
+| see elemental energies | ver energias elementais |
+| sense local essence | sentir essência local |
+| separate elements | separar elementos |
+| smash through | esmagar e atravessar |
+| store tundric essence | armazenar essência da tundra |
+| sweeping gale | vendaval avassalador |
+| tundra wildlife | vida selvagem da tundra |
+| unflinching calm | calma inabalável |
+| ward against misfortune | proteger contra o infortúnio |
+| <img class="icon-weakness">built spaces | <img class="icon-weakness">espaços construídos |
+| <img class="icon-weakness">chaotic environment | <img class="icon-weakness">ambiente caótico |
+| <img class="icon-weakness">tilled or cultivated land | <img class="icon-weakness">terra arada ou cultivada |
+| <img class="icon-weakness">warm climate | <img class="icon-weakness">clima quente |
+| annoying customers | clientes irritantes |
+| can’t be rushed | não pode ser apressado |
+| can’t handle crowds | não consegue lidar com multidões |
+| distracting visions | visões de distração |
+| feel nature’s pain | sentir a dor da natureza |
+| harm to bystanders | dano a espectadores |
+| inaccurate measurements | medições imprecisas |
+| lack of spontaneity | falta de espontaneidade |
+| must go bigger | deve fazer em maior escala |
+| (“fogo”) | (“fogo”) |
+| <strong>Invocador de Chamas (“fogo”)</strong> | <strong>Invocador de Chamas (“fogo”)</strong> |
+| <strong>Escritura de Runas</strong> | <strong>Escritura de Runas</strong> |
+| aesthetically pleasing | esteticamente agradável |
+| call | chamar |
+| cowl and cloak | cowl e capa |
+| duelist | duelista |
+| durable etchings | gravações duradouras |
+| eager to help | ansioso para ajudar |
+| fire | fogo |
+| friend | amigo |
+| frighten | assustar |
+| full tattoo reveal | revelação completa da tatuagem |
+| heal | curar |
+| perfect recall | memória perfeita |
+| quick scribing | escrita rápida |
+| roar | rugido |
+| sharp tongue | língua afiada |
+| throw | arremessar |
+| ward | proteção |
+| wearable talismans | talismãs vestíveis |
+| whispered activation | ativação sussurrada |
+| wilting stare | olhar murcho |
+| wolf | lobo |
+| woodcarving knife | faca de entalhar madeira |
+| “attach” | “anexar” |
+| “balance” | “equilibrar” |
+| “blood” | “sangue” |
+| “call” | “chamar” |
+| “chaos” | “caos” |
+| “conceal” | “ocultar” |
+| “conceal” ofuda talisman | talismã ofuda de “ocultar” |
+| “death” | “morte” |
+| “fire” | “fogo” |
+| “frighten” | “assustar” |
+| “grip” | “agarrar” |
+| “harden” | “endurecer” |
+| “imbue” | “imbuir” |
+| “leap” | “saltar” |
+| “life” | “vida” |
+| “lift” | “levantar” |
+| “memory” | “memória” |
+| “move” | “mover” |
+| “order” | “ordem” |
+| “quickness” | “rapidez” |
+| “quiet” | “quietude” |
+| “roar” | “rugido” |
+| “ruin” | “ruína” |
+| “shadow” | “sombra” |
+| “sharpness” | “afiação” |
+| “shield” | “escudo” |
+| “split” | “dividir” |
+| “strength” | “força” |
+| “strength” tattoo | tatuagem de “força” |
+| “strike” | “atacar” |
+| “sun” | “sol” |
+| “time” | “tempo” |
+| “truth” | “verdade” |
+| “unmake” | “desfazer” |
+| “weaken” | “enfraquecer” |
+| “weapon” | “arma” |
+| “wolf” | “lobo” |
+| ”blind” | ”cegar” |
+| ”sharpness” | ”afiação” |
+| ”unmake” | ”desfazer” |
+| <img class="icon-weakness">causing direct harm | <img class="icon-weakness">causar dano direto |
+| <img class="icon-weakness">dirty environments | <img class="icon-weakness">ambientes sujos |
+| <img class="icon-weakness">moving targets | <img class="icon-weakness">alvos em movimento |
+| <img class="icon-weakness">painful to use | <img class="icon-weakness">doloroso de usar |
+| <img class="icon-weakness">requires concentration</img> | <img class="icon-weakness">exige concentração</img> |
+| <img class="icon-weakness">requires time</img> | <img class="icon-weakness">exige tempo</img> |
+| <img class="icon-weakness">requires tools</img> | <img class="icon-weakness">exige ferramentas</img> |
+| careless scribe | escriturário descuidado |
+| conspicuous magic | magia conspícua |
+| indecisive | indeciso |
+| mental strain | tensão mental |
+| nearsighted | míope |
+| tattoo is concealed | tatuagem é escondida |
+| unnerving magic | magia enervante |
+| cosmetic changes | mudanças cosméticas |
+| cover of night | cobertura da noite |
+| craft unusual forms | moldar formas incomuns |
+| dazzling light | luz deslumbrante |
+| dream into wild animals | sonhar em animais selvagens |
+| enormous strength | força enorme |
+| feral attack | ataque feroz |
+| full moon nights | noites de lua cheia |
+| guard’s muscle memory | memória muscular de guarda |
+| pack fighting | luta em bando |
+| wake myself up | me acordar |
+| <img class="icon-weakness">fear of fire | <img class="icon-weakness">medo de fogo |
+| <img class="icon-weakness">mixing elements | <img class="icon-weakness">misturar elementos |
+| <img class="icon-weakness">monster hunters | <img class="icon-weakness">caçadores de monstros |
+| <img class="icon-weakness">scabbard with no sword | <img class="icon-weakness">bainha sem espada |
+| <img class="icon-weakness">very large or small bodies | <img class="icon-weakness">corpos muito grandes ou pequenos |
+| animal-like waking behavior | comportamento de vigília semelhante ao animal |
+| dissolved body | corpo dissolvido |
+| disturbed sleep | sono perturbado |
+| emotional outbursts | descargas emocionais |
+| humans’ fear of wolves | medo humano aos lobos |
+| intense scrutiny | escrutínio intenso |
+| involuntary shift | transformação involuntária |
+| needs the pack | necessidade do bando |
+| people are talking | as pessoas estão falando |
+| corrupted | corrompido |
+| corrupted-1 | corrompido-1 |
+| drained-1 | drenado-1 |
+| corrupt | corrupção |
+| area spells | feitiços de área |
+| burgeoning spellbook | livro de feitiços em expansão |
+| charm spell | feitiço de encanto |
+| counterspell | contramágica |
+| dominate will | dominar vontade |
+| eldritch entity lore | conhecimento de entidades abissais |
+| enduring spirit | espírito resistente |
+| enflame a blade | inflamar uma lâmina |
+| focus under pressure | foco sob pressão |
+| free-spirited | espírito livre |
+| harness chaos | controlar o caos |
+| inquisitive | inquisitivo |
+| invisible servant | servo invisível |
+| lesser beings | seres inferiores |
+| limbs to stone | membros em pedra |
+| lock opening spell | feitiço para abrir fechaduras |
+| magical fireworks | fogos de artifício mágicos |
+| magnetic personality | personalidade magnética |
+| mind of steel | mente de aço |
+| motionless spell | feitiço imóvel |
+| potion of mana | poção de mana |
+| rapid mana recovery | rápida recuperação de mana |
+| reveal enemies | revelar inimigos |
+| sheaf of notes | maço de notas |
+| shielding ward | proteção de escudo |
+| silent spell | feitiço silencioso |
+| sleeping spell | feitiço do sono |
+| spell recall | relembrar feitiço |
+| spellcraft lore | conhecimento de feitiçaria |
+| spur of the moment spell | feitiço de última hora |
+| staff of projection | cajado de projeção |
+| summon shadows | invocar sombras |
+| tactician | estrategista |
+| tainted crystal | cristal corrompido |
+| tear rifts in reality | rasgar fendas na realidade |
+| telekinetic tricks | truques telecinéticos |
+| transfiguration | transfiguração |
+| universally feared | universalmente temido |
+| vanish and reappear | desaparecer e reaparecer |
+| wave of corruption | onda de corrupção |
+| witching barrage | barragem bruxa |
+| <img class="icon-weakness">constrictive battlefields | <img class="icon-weakness">campos de batalha restritivos |
+| <img class="icon-weakness">frightens the mundane | <img class="icon-weakness">assusta os mundanos |
+| <img class="icon-weakness">fumbles under pressure | <img class="icon-weakness">atrapalha-se sob pressão |
+| <img class="icon-weakness">lacks discipline | <img class="icon-weakness">falta disciplina |
+| <img class="icon-weakness">requires hand gestures | <img class="icon-weakness">exige gestos com as mãos |
+| <img class="icon-weakness">requires incantation | <img class="icon-weakness">exige encantamento |
+| <img class="icon-weakness">requires some time | <img class="icon-weakness">exige algum tempo |
+| emotional turmoil | confusão emocional |
+| evokes aggression | evoca agressão |
+| lacks training | falta treinamento |
+| loose spell threads | fios de feitiço soltos |
+| magic strains reality | magia força a realidade |
+| meandering line of thought | linha de raciocínio divagante |
+| mishaps and sideeffects | infortúnios e efeitos colaterais |
+| overspecialized | superespecializado |
+| requires incredible power | exige poder incrível |
+| stop at nothing | não se deter por nada |
+| world weary | cansado do mundo |
+| bestial | bestial |
+| defiant | desafiador |
+| disoriented-1 | desorientado-1 |
+| obedient | obediente |
+| possessed | possuído |
+| vengeful | vingativo |
+| weakened | enfraquecido |
+| appease( ) | apaziguar( ) |
+| banish( ) | banir( ) |
+| bind( ) | amarrar( ) |
+| break-free( ) | libertar-se( ) |
+| <strong>Archon of Dominion</strong> | <strong>Arconte do Domínio</strong> |
+| <strong>Deathly Hound</strong> | <strong>Cão da Morte</strong> |
+| <strong>Grandpa Lo</strong> | <strong>Vovô Lo</strong> |
+| <strong>Will O’ The Wise</strong> | <strong>Vontade do Sábio</strong> |
+| aligned with spirit’s will | alinhado com a vontade do espírito |
+| ancestral arts and crafts | artes e ofícios ancestrais |
+| animal spirits | espíritos animais |
+| assert dominance | afirmar domínio |
+| beguiling tongue | língua sedutora |
+| caring for familiars | cuidar de familiares |
+| cause tension | causar tensão |
+| compelling decree | decreto imperativo |
+| containment vessel | recipiente de contenção |
+| corrupt natural landscape | corromper paisagem natural |
+| cultural memory | memória cultural |
+| demon lore | conhecimento sobre demônios |
+| demons of pestilence | demônios de pestilência |
+| familiar transformation | transformação de familiar |
+| fiery demons | demônios de fogo |
+| find the middle ground | encontrar o meio termo |
+| foliage spirits | espíritos da folhagem |
+| fragrant fruit snacks | lanches de frutas perfumadas |
+| freezing howl | uivo congelante |
+| ghost bite | mordida fantasma |
+| gross bodily sounds | sons corporais nojentos |
+| guide to safety | guia para segurança |
+| history lesson | lição de história |
+| lay of the land | disposição da terra |
+| make them bow | faça-os curvar-se |
+| misdirect | desorientar |
+| protecting my family | protegendo minha família |
+| reverent language | linguagem reverente |
+| sense corruption | sentir corrupção |
+| sense nearby spirits | sentir espíritos próximos |
+| serpent-like familiar | familiar das serpentes |
+| showing respect | mostrando respeito |
+| speak with their voice | falar com a voz deles |
+| spirit of jade | espírito de jade |
+| spirit of protection | espírito de proteção |
+| spirit of the snows | espírito das neves |
+| stone spirits | espíritos da pedra |
+| terrifying demons | demônios aterrorizantes |
+| trickster spirit | espírito trapaceiro |
+| voice of the community | voz da comunidade |
+| weather spirits | espíritos climáticos |
+| wide-scale destruction | destruição em grande escala |
+| wise ancestors | ancestrais sábios |
+| wrathful ancestors | ancestrais coléricos |
+| <img class="icon-weakness">easily sidetracked | <img class="icon-weakness">facilmente distraído |
+| <img class="icon-weakness">far from nature | <img class="icon-weakness">longe da natureza |
+| <img class="icon-weakness">harmonious actions | <img class="icon-weakness">ações harmoniosas |
+| <img class="icon-weakness">mischievous | <img class="icon-weakness">travesso |
+| <img class="icon-weakness">my body’s limits | <img class="icon-weakness">limites do meu corpo |
+| <img class="icon-weakness">only aids true rulers | <img class="icon-weakness">só ajuda os verdadeiros governantes |
+| <img class="icon-weakness">terrifies my allies | <img class="icon-weakness">aterroriza meus aliados |
+| <img class="icon-weakness">unruly familiars | <img class="icon-weakness">familiares indisciplinados |
+| attract corrupted spirits | atrair espíritos corrompidos |
+| forget my own abilities | esquecer minhas próprias habilidades |
+| indifferent to human affairs | indiferente aos assuntos humanos |
+| indulgent impulses | impulsos indulgentes |
+| old family drama | velho drama familiar |
+| ridiculed by society | ridicularizado pela sociedade |
+| rival masters | mestres rivais |
+| widespread aversion to demons | aversão generalizada a demônios |
+| ritual-power | poder-mágico |
+| angry | irritado |
+| embittered | amargurado |
+| loving | amoroso |
+| affect the senses | afetar os sentidos |
+| beseech spirits | suplicar aos espíritos |
+| bind with unseen bonds | amarrar com laços invisíveis |
+| book of hexes | livro de feitiços |
+| ceremonial knife | faca cerimonial |
+| channel others’ power | canalizar o poder de outros |
+| colored bones and beads | ossos coloridos e miçangas |
+| coven’s trust | confiança do conclave |
+| cult lore | conhecimento do culto |
+| cult protection | proteção do culto |
+| curd of cream | coalhada de creme |
+| dark curses | maldições sombrias |
+| demand reverence | exigir reverência |
+| divination rites | ritos de adivinhação |
+| evoke nightmare | evocar pesadelo |
+| fierce independence | independência feroz |
+| foresee misfortune | prever infortúnio |
+| gather ingredients | coletar ingredientes |
+| group magic | magia de grupo |
+| health and well-being spells | feitiços de saúde e bem-estar |
+| interpreting omens | interpretando presságios |
+| intuitive evasion | evasão intuitiva |
+| iron cauldron | caldeirão de ferro |
+| knotting of invisible threads | atar de fios invisíveis |
+| lie about what I’ve seen | mentir sobre o que eu vi |
+| lifeforce transmutation | transmutação de força vital |
+| love spells | feitiços de amor |
+| magical protection | proteção mágica |
+| place of power | lugar de poder |
+| practice in pristine nature | praticar na natureza intocada |
+| reading the fate of a group | ler o destino de um grupo |
+| rhyming incantations | encantamentos rimados |
+| sacred ritual circle | círculo de ritual sagrado |
+| sneak away | escapulir |
+| subject is present | sujeito está presente |
+| sympathetic magic | magia simpática |
+| time of power | momento de poder |
+| warp thoughts | deformar pensamentos |
+| weather control | controle do clima |
+| wooden effigy | efígie de madeira |
+| works well with others | trabalha bem com os outros |
+| <img class="icon-weakness">discord within the cult | <img class="icon-weakness">discórdia dentro do culto |
+| <img class="icon-weakness">disobedience | <img class="icon-weakness">desobediência |
+| <img class="icon-weakness">feared magic in built areas | <img class="icon-weakness">magia temida em áreas construídas |
+| <img class="icon-weakness">obscured fate | <img class="icon-weakness">destino obscurecido |
+| <img class="icon-weakness">requires implements | <img class="icon-weakness">exige implementos |
+| <img class="icon-weakness">requires time | <img class="icon-weakness">exige tempo |
+| amplify negative emotions | amplificar emoções negativas |
+| being exposed | ser exposto |
+| controlling personality | personalidade controladora |
+| easily disrupted rituals | rituais facilmente interrompidos |
+| isolated from society | isolado da sociedade |
+| loud chanting | cantoria alta |
+| marked by dark forces | marcado por forças das trevas |
+| physically draining | fisicamente esgotante |
+| requires spiritual purity | exige pureza espiritual |
+| visions of a dark terror | visões de um terror sombrio |
+| weaker alone | mais fraco sozinho |
