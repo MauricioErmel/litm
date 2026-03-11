@@ -2732,3 +2732,16 @@
 | requires spiritual purity | exige pureza espiritual |
 | visions of a dark terror | visões de um terror sombrio |
 | weaker alone | mais fraco sozinho |
+| harm(4) | dano(4) |
+| bowmanship | arquearia |
+| dark | escuro |
+| satchel of goodies | mochila cheia de mimos |
+| <img class="icon-weakness">brittle | <img class="icon-weakness">frágil |
+| <img class="icon-weakness">overconfident | <img class="icon-weakness">excesso de confiança |
+| <img class="icon-weakness">prone to worrying | <img class="icon-weakness">propenso a se preocupar |
+| convince | convencer |
+| beaver-kin | castoride |
+| knows the lore of yore | conhece o folclore de outrora |
+| pleasant peasant | camponês agradável |
+| speak straight | falar com franqueza |
+| traveling troubadour | trovador itinerante |
