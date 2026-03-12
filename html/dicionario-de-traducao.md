@@ -85,6 +85,10 @@
 | Unearth Lost Truths | Desenterrar Verdades Perdidas | Tipo de Momento de Realização |
 | Discovery | Descoberta | |
 | Way of Magic | Manifestação Mágica | |
+| Power | Poder | |
+| Limit | Limite | |
+| Might | Poderio | |
+| Weakness | Fraqueza | |
 
 ## Personagens e Estrutura Narrativa
 
