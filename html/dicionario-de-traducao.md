@@ -14,7 +14,7 @@
 | Wound tag | Rótulo de ferimento | |
 | Buff tag | Rótulo de benefício | |
 | Relationship tags | Rótulos de relacionamento | |
-| Status | Status | Mantido em português |
+| Status | Condição | |
 | Check | Teste | Rolagem única de dados |
 | Tracking Cards | Cartas de Rastreio | Acessório do jogo |
 | Theme Cards | Cartas de Tema | Acessório do jogo |
@@ -87,7 +87,8 @@
 | Way of Magic | Manifestação Mágica | |
 | Power | Poder | |
 | Limit | Limite | |
-| Might | Poderio | |
+| Might | Virtude | |
+| Mighty | Virtuoso | |
 | Weakness | Fraqueza | |
 
 ## Personagens e Estrutura Narrativa
