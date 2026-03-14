@@ -16,7 +16,7 @@
 | Relationship tags | Rótulos de relacionamento | |
 | Status | Condição | |
 | Check | Teste | Rolagem única de dados |
-| Tracking Cards | Cartas de Rastreio | Acessório do jogo |
+| Tracking Card | Cartão de Controle | Acessório do jogo |
 | Theme Cards | Cartas de Tema | Acessório do jogo |
 | Character sheet | Ficha de personagem | |
 | Hero card | Carta de Herói | |
@@ -106,7 +106,7 @@
 
 | Inglês | Português | Notas |
 |---|---|---|
-| Frame of Play | Enquadramento de Jogo | |
+| Frame of Play | Contexto de Jogo | |
 | Rustic Fantasy | Fantasia Rústica | Subgênero central do jogo |
 | Story beat | Momento da história | |
 | Encounter | Encontro | |
