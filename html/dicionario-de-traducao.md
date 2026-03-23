@@ -184,7 +184,6 @@
 | Vantage point | Posição vantajosa | Exemplo de rótulo |
 | Background | Antecedente | |
 | Themebook | Guia de Tema | Questionário para criação de Tema |
-| Might | Poderio | Nível de escopo/poder |
 | Origin | Origem | Categoria de Poderio |
 | Adventure | Aventura | Categoria de Poderio |
 | Greatness | Grandeza | Categoria de Poderio |
